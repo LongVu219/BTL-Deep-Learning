@@ -1,0 +1,3904 @@
+dataset initializing start
+dataset initializing done
+The model has 30,542,231 trainable parameters
+step : 0.0 % , loss : 11.50745964050293
+step : 12.79 % , loss : 6.497060298919678
+step : 25.58 % , loss : 6.310606002807617
+step : 38.36 % , loss : 6.12380313873291
+step : 51.15 % , loss : 5.867432594299316
+step : 63.94 % , loss : 5.592658996582031
+step : 76.73 % , loss : 5.616512298583984
+step : 89.51 % , loss : 5.433011531829834
+Epoch: 1
+Epoch time : 0.059523344569736056hrs
+	Train Loss: 5.965 | Train PPL: 389.695
+	Val Loss: 5.240 |  Val PPL: 188.580
+	BLEU Score: 0.000
+step : 0.0 % , loss : 5.316442966461182
+step : 12.79 % , loss : 5.306166172027588
+step : 25.58 % , loss : 5.17660665512085
+step : 38.36 % , loss : 5.163084030151367
+step : 51.15 % , loss : 5.130868911743164
+step : 63.94 % , loss : 5.1124653816223145
+step : 76.73 % , loss : 5.015082359313965
+step : 89.51 % , loss : 5.0248613357543945
+Epoch: 2
+Epoch time : 0.05955999639299181hrs
+	Train Loss: 5.177 | Train PPL: 177.081
+	Val Loss: 4.872 |  Val PPL: 130.571
+	BLEU Score: 0.001
+step : 0.0 % , loss : 5.059782981872559
+step : 12.79 % , loss : 4.719741344451904
+step : 25.58 % , loss : 4.845335006713867
+step : 38.36 % , loss : 4.7310285568237305
+step : 51.15 % , loss : 4.706352233886719
+step : 63.94 % , loss : 4.540398120880127
+step : 76.73 % , loss : 4.654229640960693
+step : 89.51 % , loss : 4.415848731994629
+Epoch: 3
+Epoch time : 0.059776943458451165hrs
+	Train Loss: 4.670 | Train PPL: 106.691
+	Val Loss: 4.193 |  Val PPL:  66.196
+	BLEU Score: 0.022
+step : 0.0 % , loss : 4.318166732788086
+step : 12.79 % , loss : 4.213435173034668
+step : 25.58 % , loss : 4.131200790405273
+step : 38.36 % , loss : 4.110470294952393
+step : 51.15 % , loss : 4.146335601806641
+step : 63.94 % , loss : 4.025760650634766
+step : 76.73 % , loss : 3.994889974594116
+step : 89.51 % , loss : 3.9699881076812744
+Epoch: 4
+Epoch time : 0.059651504490110606hrs
+	Train Loss: 4.144 | Train PPL:  63.059
+	Val Loss: 3.791 |  Val PPL:  44.292
+	BLEU Score: 0.041
+step : 0.0 % , loss : 3.785606622695923
+step : 12.79 % , loss : 4.080124378204346
+step : 25.58 % , loss : 4.008247375488281
+step : 38.36 % , loss : 3.8679041862487793
+step : 51.15 % , loss : 3.9032371044158936
+step : 63.94 % , loss : 3.91256046295166
+step : 76.73 % , loss : 3.9044156074523926
+step : 89.51 % , loss : 3.87265682220459
+Epoch: 5
+Epoch time : 0.05985003107123905hrs
+	Train Loss: 3.865 | Train PPL:  47.699
+	Val Loss: 3.643 |  Val PPL:  38.211
+	BLEU Score: 0.051
+step : 0.0 % , loss : 3.710386276245117
+step : 12.79 % , loss : 3.6374611854553223
+step : 25.58 % , loss : 3.7038168907165527
+step : 38.36 % , loss : 3.7776193618774414
+step : 51.15 % , loss : 3.8314931392669678
+step : 63.94 % , loss : 3.8104093074798584
+step : 76.73 % , loss : 3.9345765113830566
+step : 89.51 % , loss : 3.767894744873047
+Epoch: 6
+Epoch time : 0.05956795904371474hrs
+	Train Loss: 3.722 | Train PPL:  41.334
+	Val Loss: 3.539 |  Val PPL:  34.426
+	BLEU Score: 0.060
+step : 0.0 % , loss : 3.6528446674346924
+step : 12.79 % , loss : 3.5856568813323975
+step : 25.58 % , loss : 3.599531412124634
+step : 38.36 % , loss : 3.5612497329711914
+step : 51.15 % , loss : 3.6174685955047607
+step : 63.94 % , loss : 3.6552839279174805
+step : 76.73 % , loss : 3.771996259689331
+step : 89.51 % , loss : 3.630661725997925
+Epoch: 7
+Epoch time : 0.059695070849524606hrs
+	Train Loss: 3.638 | Train PPL:  38.009
+	Val Loss: 3.479 |  Val PPL:  32.425
+	BLEU Score: 0.069
+step : 0.0 % , loss : 3.478670835494995
+step : 12.79 % , loss : 3.481945514678955
+step : 25.58 % , loss : 3.8148365020751953
+step : 38.36 % , loss : 3.703878402709961
+step : 51.15 % , loss : 3.657573699951172
+step : 63.94 % , loss : 3.553497552871704
+step : 76.73 % , loss : 3.6424295902252197
+step : 89.51 % , loss : 3.514509677886963
+Epoch: 8
+Epoch time : 0.05975336558288998hrs
+	Train Loss: 3.581 | Train PPL:  35.895
+	Val Loss: 3.449 |  Val PPL:  31.481
+	BLEU Score: 0.063
+step : 0.0 % , loss : 3.324946403503418
+step : 12.79 % , loss : 3.473036289215088
+step : 25.58 % , loss : 3.509601354598999
+step : 38.36 % , loss : 3.4535584449768066
+step : 51.15 % , loss : 3.617382049560547
+step : 63.94 % , loss : 3.4912188053131104
+step : 76.73 % , loss : 3.463529109954834
+step : 89.51 % , loss : 3.544374942779541
+Epoch: 9
+Epoch time : 0.05966441399521298hrs
+	Train Loss: 3.540 | Train PPL:  34.466
+	Val Loss: 3.429 |  Val PPL:  30.857
+	BLEU Score: 0.069
+step : 0.0 % , loss : 3.3936262130737305
+step : 12.79 % , loss : 3.3573808670043945
+step : 25.58 % , loss : 3.614780902862549
+step : 38.36 % , loss : 3.5319738388061523
+step : 51.15 % , loss : 3.5138072967529297
+step : 63.94 % , loss : 3.596144437789917
+step : 76.73 % , loss : 3.50055193901062
+step : 89.51 % , loss : 3.728801727294922
+Epoch: 10
+Epoch time : 0.05974096980359819hrs
+	Train Loss: 3.507 | Train PPL:  33.352
+	Val Loss: 3.411 |  Val PPL:  30.299
+	BLEU Score: 0.074
+step : 0.0 % , loss : 3.388882875442505
+step : 12.79 % , loss : 3.542382001876831
+step : 25.58 % , loss : 3.5424964427948
+step : 38.36 % , loss : 3.5166807174682617
+step : 51.15 % , loss : 3.713792324066162
+step : 63.94 % , loss : 3.551034688949585
+step : 76.73 % , loss : 3.530143976211548
+step : 89.51 % , loss : 3.522279739379883
+Epoch: 11
+Epoch time : 0.0595929393503401hrs
+	Train Loss: 3.483 | Train PPL:  32.544
+	Val Loss: 3.415 |  Val PPL:  30.424
+	BLEU Score: 0.071
+step : 0.0 % , loss : 3.4367194175720215
+step : 12.79 % , loss : 3.3453352451324463
+step : 25.58 % , loss : 4.124951362609863
+step : 38.36 % , loss : 3.5460875034332275
+step : 51.15 % , loss : 3.514084577560425
+step : 63.94 % , loss : 3.589569330215454
+step : 76.73 % , loss : 3.5693345069885254
+step : 89.51 % , loss : 3.626922130584717
+Epoch: 12
+Epoch time : 0.05967178530163235hrs
+	Train Loss: 3.648 | Train PPL:  38.409
+	Val Loss: 3.383 |  Val PPL:  29.448
+	BLEU Score: 0.071
+step : 0.0 % , loss : 3.314236640930176
+step : 12.79 % , loss : 3.3401894569396973
+step : 25.58 % , loss : 3.3528530597686768
+step : 38.36 % , loss : 3.400233030319214
+step : 51.15 % , loss : 3.4567067623138428
+step : 63.94 % , loss : 3.571362257003784
+step : 76.73 % , loss : 3.4809751510620117
+step : 89.51 % , loss : 3.4947993755340576
+Epoch: 13
+Epoch time : 0.05952050957414839hrs
+	Train Loss: 3.449 | Train PPL:  31.467
+	Val Loss: 3.374 |  Val PPL:  29.202
+	BLEU Score: 0.075
+step : 0.0 % , loss : 3.2915635108947754
+step : 12.79 % , loss : 3.3675296306610107
+step : 25.58 % , loss : 3.481107234954834
+step : 38.36 % , loss : 3.4218692779541016
+step : 51.15 % , loss : 3.3753137588500977
+step : 63.94 % , loss : 3.4469239711761475
+step : 76.73 % , loss : 3.475092649459839
+step : 89.51 % , loss : 3.564413070678711
+Epoch: 14
+Epoch time : 0.059806152780850726hrs
+	Train Loss: 3.435 | Train PPL:  31.031
+	Val Loss: 3.362 |  Val PPL:  28.837
+	BLEU Score: 0.072
+step : 0.0 % , loss : 3.3170268535614014
+step : 12.79 % , loss : 3.2689616680145264
+step : 25.58 % , loss : 3.481468677520752
+step : 38.36 % , loss : 3.512479066848755
+step : 51.15 % , loss : 3.4919371604919434
+step : 63.94 % , loss : 3.4822893142700195
+step : 76.73 % , loss : 3.498819351196289
+step : 89.51 % , loss : 3.4844822883605957
+Epoch: 15
+Epoch time : 0.059846891827053494hrs
+	Train Loss: 3.421 | Train PPL:  30.608
+	Val Loss: 3.347 |  Val PPL:  28.418
+	BLEU Score: 0.075
+step : 0.0 % , loss : 3.3762810230255127
+step : 12.79 % , loss : 3.4219307899475098
+step : 25.58 % , loss : 3.3657217025756836
+step : 38.36 % , loss : 3.401672124862671
+step : 51.15 % , loss : 3.4605002403259277
+step : 63.94 % , loss : 3.406024932861328
+step : 76.73 % , loss : 3.46714186668396
+step : 89.51 % , loss : 3.5407490730285645
+Epoch: 16
+Epoch time : 0.059649994108412hrs
+	Train Loss: 3.415 | Train PPL:  30.418
+	Val Loss: 3.331 |  Val PPL:  27.960
+	BLEU Score: 0.077
+step : 0.0 % , loss : 3.366295576095581
+step : 12.79 % , loss : 3.438258171081543
+step : 25.58 % , loss : 3.3558313846588135
+step : 38.36 % , loss : 3.383136034011841
+step : 51.15 % , loss : 3.4356606006622314
+step : 63.94 % , loss : 3.4703471660614014
+step : 76.73 % , loss : 3.44929575920105
+step : 89.51 % , loss : 3.4482526779174805
+Epoch: 17
+Epoch time : 0.05958526154359182hrs
+	Train Loss: 3.397 | Train PPL:  29.864
+	Val Loss: 3.344 |  Val PPL:  28.322
+	BLEU Score: 0.078
+step : 0.0 % , loss : 3.257473945617676
+step : 12.79 % , loss : 3.2882235050201416
+step : 25.58 % , loss : 3.2721664905548096
+step : 38.36 % , loss : 3.489629030227661
+step : 51.15 % , loss : 3.23620343208313
+step : 63.94 % , loss : 3.410921812057495
+step : 76.73 % , loss : 3.475376605987549
+step : 89.51 % , loss : 3.4145257472991943
+Epoch: 18
+Epoch time : 0.059850344194306265hrs
+	Train Loss: 3.384 | Train PPL:  29.490
+	Val Loss: 3.299 |  Val PPL:  27.093
+	BLEU Score: 0.081
+step : 0.0 % , loss : 3.177210569381714
+step : 12.79 % , loss : 3.369856357574463
+step : 25.58 % , loss : 3.2688491344451904
+step : 38.36 % , loss : 3.2480931282043457
+step : 51.15 % , loss : 3.3159639835357666
+step : 63.94 % , loss : 3.3487067222595215
+step : 76.73 % , loss : 3.289571523666382
+step : 89.51 % , loss : 3.480680465698242
+Epoch: 19
+Epoch time : 0.05982246617476145hrs
+	Train Loss: 3.371 | Train PPL:  29.107
+	Val Loss: 3.303 |  Val PPL:  27.190
+	BLEU Score: 0.078
+step : 0.0 % , loss : 3.2591192722320557
+step : 12.79 % , loss : 3.3116796016693115
+step : 25.58 % , loss : 3.246920585632324
+step : 38.36 % , loss : 3.416609048843384
+step : 51.15 % , loss : 3.4145607948303223
+step : 63.94 % , loss : 3.234351873397827
+step : 76.73 % , loss : 6.4062604904174805
+step : 89.51 % , loss : 5.289573669433594
+Epoch: 20
+Epoch time : 0.05976851642131806hrs
+	Train Loss: 4.035 | Train PPL:  56.527
+	Val Loss: 4.792 |  Val PPL: 120.583
+	BLEU Score: 0.001
+step : 0.0 % , loss : 4.91270112991333
+step : 12.79 % , loss : 4.682384967803955
+step : 25.58 % , loss : 4.851066589355469
+step : 38.36 % , loss : 4.812670707702637
+step : 51.15 % , loss : 4.0188398361206055
+step : 63.94 % , loss : 3.6174466609954834
+step : 76.73 % , loss : 3.6340861320495605
+step : 89.51 % , loss : 3.507646083831787
+Epoch: 21
+Epoch time : 0.05971362087461683hrs
+	Train Loss: 4.183 | Train PPL:  65.583
+	Val Loss: 3.369 |  Val PPL:  29.057
+	BLEU Score: 0.076
+step : 0.0 % , loss : 3.313215732574463
+step : 12.79 % , loss : 3.295714855194092
+step : 25.58 % , loss : 3.3957412242889404
+step : 38.36 % , loss : 3.407741069793701
+step : 51.15 % , loss : 3.4207091331481934
+step : 63.94 % , loss : 3.3438055515289307
+step : 76.73 % , loss : 3.5614233016967773
+step : 89.51 % , loss : 3.61916184425354
+Epoch: 22
+Epoch time : 0.059709810349676345hrs
+	Train Loss: 3.421 | Train PPL:  30.608
+	Val Loss: 3.295 |  Val PPL:  26.987
+	BLEU Score: 0.080
+step : 0.0 % , loss : 3.24745512008667
+step : 12.79 % , loss : 3.3592240810394287
+step : 25.58 % , loss : 3.3284385204315186
+step : 38.36 % , loss : 3.437276601791382
+step : 51.15 % , loss : 3.4231374263763428
+step : 63.94 % , loss : 3.3447763919830322
+step : 76.73 % , loss : 3.5240957736968994
+step : 89.51 % , loss : 3.45401930809021
+Epoch: 23
+Epoch time : 0.05986968298753103hrs
+	Train Loss: 3.373 | Train PPL:  29.160
+	Val Loss: 3.301 |  Val PPL:  27.143
+	BLEU Score: 0.077
+step : 0.0 % , loss : 3.3381431102752686
+step : 12.79 % , loss : 3.2045700550079346
+step : 25.58 % , loss : 3.348886728286743
+step : 38.36 % , loss : 3.3500571250915527
+step : 51.15 % , loss : 3.532696008682251
+step : 63.94 % , loss : 3.3599634170532227
+step : 76.73 % , loss : 3.5123291015625
+step : 89.51 % , loss : 3.3746085166931152
+Epoch: 24
+Epoch time : 0.0598521790239546hrs
+	Train Loss: 3.355 | Train PPL:  28.637
+	Val Loss: 3.292 |  Val PPL:  26.906
+	BLEU Score: 0.082
+step : 0.0 % , loss : 3.246555805206299
+step : 12.79 % , loss : 3.3184173107147217
+step : 25.58 % , loss : 3.3503730297088623
+step : 38.36 % , loss : 3.3710174560546875
+step : 51.15 % , loss : 3.20932674407959
+step : 63.94 % , loss : 3.3514745235443115
+step : 76.73 % , loss : 3.345667839050293
+step : 89.51 % , loss : 3.3695013523101807
+Epoch: 25
+Epoch time : 0.0597307460837894hrs
+	Train Loss: 3.342 | Train PPL:  28.268
+	Val Loss: 3.268 |  Val PPL:  26.263
+	BLEU Score: 0.081
+step : 0.0 % , loss : 3.220309257507324
+step : 12.79 % , loss : 3.3630082607269287
+step : 25.58 % , loss : 3.339540719985962
+step : 38.36 % , loss : 3.254824161529541
+step : 51.15 % , loss : 3.324592351913452
+step : 63.94 % , loss : 3.3753395080566406
+step : 76.73 % , loss : 3.2729458808898926
+step : 89.51 % , loss : 3.4776077270507812
+Epoch: 26
+Epoch time : 0.05956455210844676hrs
+	Train Loss: 3.333 | Train PPL:  28.009
+	Val Loss: 3.258 |  Val PPL:  26.009
+	BLEU Score: 0.084
+step : 0.0 % , loss : 3.1970865726470947
+step : 12.79 % , loss : 3.285658359527588
+step : 25.58 % , loss : 3.2676873207092285
+step : 38.36 % , loss : 3.3650388717651367
+step : 51.15 % , loss : 3.342470169067383
+step : 63.94 % , loss : 3.3676040172576904
+step : 76.73 % , loss : 3.395392894744873
+step : 89.51 % , loss : 3.326892614364624
+Epoch: 27
+Epoch time : 0.059713009198506674hrs
+	Train Loss: 3.323 | Train PPL:  27.740
+	Val Loss: 3.255 |  Val PPL:  25.918
+	BLEU Score: 0.090
+step : 0.0 % , loss : 3.262089967727661
+step : 12.79 % , loss : 3.3510830402374268
+step : 25.58 % , loss : 3.320387363433838
+step : 38.36 % , loss : 3.4060301780700684
+step : 51.15 % , loss : 3.214970350265503
+step : 63.94 % , loss : 3.180558681488037
+step : 76.73 % , loss : 3.2534303665161133
+step : 89.51 % , loss : 3.37316632270813
+Epoch: 28
+Epoch time : 0.05969979054398007hrs
+	Train Loss: 3.316 | Train PPL:  27.558
+	Val Loss: 3.267 |  Val PPL:  26.244
+	BLEU Score: 0.087
+step : 0.0 % , loss : 3.1654562950134277
+step : 12.79 % , loss : 3.3145973682403564
+step : 25.58 % , loss : 3.329911470413208
+step : 38.36 % , loss : 3.1784000396728516
+step : 51.15 % , loss : 3.2487027645111084
+step : 63.94 % , loss : 3.4045729637145996
+step : 76.73 % , loss : 3.5210251808166504
+step : 89.51 % , loss : 3.306894063949585
+Epoch: 29
+Epoch time : 0.059628487163119845hrs
+	Train Loss: 3.307 | Train PPL:  27.291
+	Val Loss: 3.260 |  Val PPL:  26.040
+	BLEU Score: 0.089
+step : 0.0 % , loss : 3.216951370239258
+step : 12.79 % , loss : 3.315148115158081
+step : 25.58 % , loss : 3.2205746173858643
+step : 38.36 % , loss : 3.39898943901062
+step : 51.15 % , loss : 3.3044798374176025
+step : 63.94 % , loss : 3.212606191635132
+step : 76.73 % , loss : 3.3461554050445557
+step : 89.51 % , loss : 3.1144824028015137
+Epoch: 30
+Epoch time : 0.05951177378495534hrs
+	Train Loss: 3.300 | Train PPL:  27.104
+	Val Loss: 3.235 |  Val PPL:  25.402
+	BLEU Score: 0.085
+step : 0.0 % , loss : 3.000725269317627
+step : 12.79 % , loss : 3.277326822280884
+step : 25.58 % , loss : 3.248783826828003
+step : 38.36 % , loss : 3.177201986312866
+step : 51.15 % , loss : 3.235867977142334
+step : 63.94 % , loss : 3.2989237308502197
+step : 76.73 % , loss : 3.2888033390045166
+step : 89.51 % , loss : 3.5098440647125244
+Epoch: 31
+Epoch time : 0.05964441968335046hrs
+	Train Loss: 3.291 | Train PPL:  26.877
+	Val Loss: 3.237 |  Val PPL:  25.453
+	BLEU Score: 0.089
+step : 0.0 % , loss : 3.228142261505127
+step : 12.79 % , loss : 3.413698434829712
+step : 25.58 % , loss : 3.210528612136841
+step : 38.36 % , loss : 3.2550182342529297
+step : 51.15 % , loss : 3.44831919670105
+step : 63.94 % , loss : 3.2342891693115234
+step : 76.73 % , loss : 3.3677783012390137
+step : 89.51 % , loss : 3.156381368637085
+Epoch: 32
+Epoch time : 0.05977546254793803hrs
+	Train Loss: 3.285 | Train PPL:  26.700
+	Val Loss: 3.236 |  Val PPL:  25.436
+	BLEU Score: 0.091
+step : 0.0 % , loss : 3.1772172451019287
+step : 12.79 % , loss : 3.205688714981079
+step : 25.58 % , loss : 3.3499372005462646
+step : 38.36 % , loss : 3.1003611087799072
+step : 51.15 % , loss : 3.3164329528808594
+step : 63.94 % , loss : 3.283705711364746
+step : 76.73 % , loss : 3.3569979667663574
+step : 89.51 % , loss : 3.2243666648864746
+Epoch: 33
+Epoch time : 0.059613712032636004hrs
+	Train Loss: 3.279 | Train PPL:  26.544
+	Val Loss: 3.224 |  Val PPL:  25.140
+	BLEU Score: 0.092
+step : 0.0 % , loss : 3.081984043121338
+step : 12.79 % , loss : 3.0915489196777344
+step : 25.58 % , loss : 3.327005386352539
+step : 38.36 % , loss : 3.3478968143463135
+step : 51.15 % , loss : 3.1669297218322754
+step : 63.94 % , loss : 3.2806313037872314
+step : 76.73 % , loss : 3.413766384124756
+step : 89.51 % , loss : 3.321171283721924
+Epoch: 34
+Epoch time : 0.059634802805052865hrs
+	Train Loss: 3.274 | Train PPL:  26.408
+	Val Loss: 3.205 |  Val PPL:  24.645
+	BLEU Score: 0.093
+step : 0.0 % , loss : 3.2490601539611816
+step : 12.79 % , loss : 3.320338726043701
+step : 25.58 % , loss : 3.1529078483581543
+step : 38.36 % , loss : 3.2213199138641357
+step : 51.15 % , loss : 3.3360962867736816
+step : 63.94 % , loss : 3.406404972076416
+step : 76.73 % , loss : 3.315919876098633
+step : 89.51 % , loss : 3.3461639881134033
+Epoch: 35
+Epoch time : 0.059515450596809384hrs
+	Train Loss: 3.265 | Train PPL:  26.190
+	Val Loss: 3.199 |  Val PPL:  24.511
+	BLEU Score: 0.091
+step : 0.0 % , loss : 3.101853609085083
+step : 12.79 % , loss : 3.188673257827759
+step : 25.58 % , loss : 3.171792984008789
+step : 38.36 % , loss : 3.3387629985809326
+step : 51.15 % , loss : 3.189408540725708
+step : 63.94 % , loss : 3.2718775272369385
+step : 76.73 % , loss : 3.238464832305908
+step : 89.51 % , loss : 3.2851762771606445
+Epoch: 36
+Epoch time : 0.05970025797684987hrs
+	Train Loss: 3.263 | Train PPL:  26.120
+	Val Loss: 3.202 |  Val PPL:  24.578
+	BLEU Score: 0.088
+step : 0.0 % , loss : 3.082902669906616
+step : 12.79 % , loss : 3.2309093475341797
+step : 25.58 % , loss : 3.288006544113159
+step : 38.36 % , loss : 3.2988178730010986
+step : 51.15 % , loss : 3.2685117721557617
+step : 63.94 % , loss : 3.4152092933654785
+step : 76.73 % , loss : 3.258049488067627
+step : 89.51 % , loss : 3.30735445022583
+Epoch: 37
+Epoch time : 0.059748508135477704hrs
+	Train Loss: 3.256 | Train PPL:  25.951
+	Val Loss: 3.227 |  Val PPL:  25.213
+	BLEU Score: 0.084
+step : 0.0 % , loss : 3.0610148906707764
+step : 12.79 % , loss : 3.1126794815063477
+step : 25.58 % , loss : 3.198274850845337
+step : 38.36 % , loss : 3.2762935161590576
+step : 51.15 % , loss : 3.2303454875946045
+step : 63.94 % , loss : 3.4303433895111084
+step : 76.73 % , loss : 3.357497215270996
+step : 89.51 % , loss : 3.3768861293792725
+Epoch: 38
+Epoch time : 0.05962052159839206hrs
+	Train Loss: 3.253 | Train PPL:  25.859
+	Val Loss: 3.222 |  Val PPL:  25.072
+	BLEU Score: 0.091
+step : 0.0 % , loss : 3.075207471847534
+step : 12.79 % , loss : 3.225980758666992
+step : 25.58 % , loss : 3.193397283554077
+step : 38.36 % , loss : 3.1986374855041504
+step : 51.15 % , loss : 3.204472303390503
+step : 63.94 % , loss : 3.1994833946228027
+step : 76.73 % , loss : 3.3936538696289062
+step : 89.51 % , loss : 3.123948097229004
+Epoch: 39
+Epoch time : 0.059604508015844555hrs
+	Train Loss: 3.248 | Train PPL:  25.742
+	Val Loss: 3.200 |  Val PPL:  24.537
+	BLEU Score: 0.094
+step : 0.0 % , loss : 3.1217072010040283
+step : 12.79 % , loss : 3.187873601913452
+step : 25.58 % , loss : 3.1970937252044678
+step : 38.36 % , loss : 3.2437241077423096
+step : 51.15 % , loss : 3.286050796508789
+step : 63.94 % , loss : 3.200812339782715
+step : 76.73 % , loss : 3.4685604572296143
+step : 89.51 % , loss : 3.24434757232666
+Epoch: 40
+Epoch time : 0.059553464783562556hrs
+	Train Loss: 3.244 | Train PPL:  25.628
+	Val Loss: 3.195 |  Val PPL:  24.415
+	BLEU Score: 0.089
+step : 0.0 % , loss : 3.1337718963623047
+step : 12.79 % , loss : 3.1607868671417236
+step : 25.58 % , loss : 3.2345850467681885
+step : 38.36 % , loss : 3.1570844650268555
+step : 51.15 % , loss : 3.3004567623138428
+step : 63.94 % , loss : 3.1767897605895996
+step : 76.73 % , loss : 3.2478699684143066
+step : 89.51 % , loss : 3.178701162338257
+Epoch: 41
+Epoch time : 0.05965643644332886hrs
+	Train Loss: 3.240 | Train PPL:  25.532
+	Val Loss: 3.200 |  Val PPL:  24.531
+	BLEU Score: 0.090
+step : 0.0 % , loss : 3.216972827911377
+step : 12.79 % , loss : 3.0749385356903076
+step : 25.58 % , loss : 3.187087059020996
+step : 38.36 % , loss : 3.0525500774383545
+step : 51.15 % , loss : 3.300811290740967
+step : 63.94 % , loss : 3.2388644218444824
+step : 76.73 % , loss : 3.3936331272125244
+step : 89.51 % , loss : 3.3864758014678955
+Epoch: 42
+Epoch time : 0.059568652245733475hrs
+	Train Loss: 3.232 | Train PPL:  25.333
+	Val Loss: 3.217 |  Val PPL:  24.947
+	BLEU Score: 0.088
+step : 0.0 % , loss : 3.1545662879943848
+step : 12.79 % , loss : 3.1101391315460205
+step : 25.58 % , loss : 3.1731209754943848
+step : 38.36 % , loss : 3.2909274101257324
+step : 51.15 % , loss : 3.2780821323394775
+step : 63.94 % , loss : 3.2567954063415527
+step : 76.73 % , loss : 3.019272804260254
+step : 89.51 % , loss : 3.2530081272125244
+Epoch: 43
+Epoch time : 0.05974181314309438hrs
+	Train Loss: 3.229 | Train PPL:  25.244
+	Val Loss: 3.186 |  Val PPL:  24.196
+	BLEU Score: 0.090
+step : 0.0 % , loss : 3.0388433933258057
+step : 12.79 % , loss : 3.0257582664489746
+step : 25.58 % , loss : 3.189312219619751
+step : 38.36 % , loss : 3.1967380046844482
+step : 51.15 % , loss : 3.3296287059783936
+step : 63.94 % , loss : 3.276352882385254
+step : 76.73 % , loss : 3.190061092376709
+step : 89.51 % , loss : 3.2733731269836426
+Epoch: 44
+Epoch time : 0.059717771079805165hrs
+	Train Loss: 3.224 | Train PPL:  25.123
+	Val Loss: 3.212 |  Val PPL:  24.821
+	BLEU Score: 0.088
+step : 0.0 % , loss : 3.1367204189300537
+step : 12.79 % , loss : 3.2678191661834717
+step : 25.58 % , loss : 3.20363187789917
+step : 38.36 % , loss : 3.2987024784088135
+step : 51.15 % , loss : 3.107898473739624
+step : 63.94 % , loss : 3.280095338821411
+step : 76.73 % , loss : 3.2595295906066895
+step : 89.51 % , loss : 3.213134288787842
+Epoch: 45
+Epoch time : 0.05956772347291311hrs
+	Train Loss: 3.221 | Train PPL:  25.047
+	Val Loss: 3.176 |  Val PPL:  23.941
+	BLEU Score: 0.094
+step : 0.0 % , loss : 3.126953601837158
+step : 12.79 % , loss : 3.190911054611206
+step : 25.58 % , loss : 3.1284987926483154
+step : 38.36 % , loss : 3.3141465187072754
+step : 51.15 % , loss : 3.3081085681915283
+step : 63.94 % , loss : 3.437009572982788
+step : 76.73 % , loss : 3.271923303604126
+step : 89.51 % , loss : 3.1987407207489014
+Epoch: 46
+Epoch time : 0.0598474774758021hrs
+	Train Loss: 3.215 | Train PPL:  24.916
+	Val Loss: 3.192 |  Val PPL:  24.348
+	BLEU Score: 0.093
+step : 0.0 % , loss : 3.058687448501587
+step : 12.79 % , loss : 3.1994783878326416
+step : 25.58 % , loss : 3.0813634395599365
+step : 38.36 % , loss : 3.3078954219818115
+step : 51.15 % , loss : 3.121877431869507
+step : 63.94 % , loss : 3.2488272190093994
+step : 76.73 % , loss : 3.2259714603424072
+step : 89.51 % , loss : 3.1155574321746826
+Epoch: 47
+Epoch time : 0.05963150110509661hrs
+	Train Loss: 3.212 | Train PPL:  24.833
+	Val Loss: 3.203 |  Val PPL:  24.596
+	BLEU Score: 0.092
+step : 0.0 % , loss : 3.222339153289795
+step : 12.79 % , loss : 3.2325611114501953
+step : 25.58 % , loss : 3.4319536685943604
+step : 38.36 % , loss : 3.0784380435943604
+step : 51.15 % , loss : 3.29860782623291
+step : 63.94 % , loss : 3.171907663345337
+step : 76.73 % , loss : 3.1641132831573486
+step : 89.51 % , loss : 3.329904317855835
+Epoch: 48
+Epoch time : 0.059668177366256715hrs
+	Train Loss: 3.211 | Train PPL:  24.797
+	Val Loss: 3.182 |  Val PPL:  24.096
+	BLEU Score: 0.092
+step : 0.0 % , loss : 3.055974245071411
+step : 12.79 % , loss : 3.1299901008605957
+step : 25.58 % , loss : 3.2155728340148926
+step : 38.36 % , loss : 3.1384809017181396
+step : 51.15 % , loss : 3.282278299331665
+step : 63.94 % , loss : 3.2766170501708984
+step : 76.73 % , loss : 3.3624494075775146
+step : 89.51 % , loss : 3.3310258388519287
+Epoch: 49
+Epoch time : 0.05960695796542698hrs
+	Train Loss: 3.206 | Train PPL:  24.687
+	Val Loss: 3.177 |  Val PPL:  23.983
+	BLEU Score: 0.096
+step : 0.0 % , loss : 3.230339527130127
+step : 12.79 % , loss : 3.070038318634033
+step : 25.58 % , loss : 3.2916345596313477
+step : 38.36 % , loss : 3.2027437686920166
+step : 51.15 % , loss : 3.255964517593384
+step : 63.94 % , loss : 3.2178494930267334
+step : 76.73 % , loss : 3.193711042404175
+step : 89.51 % , loss : 3.2971084117889404
+Epoch: 50
+Epoch time : 0.05964173879888322hrs
+	Train Loss: 3.203 | Train PPL:  24.600
+	Val Loss: 3.171 |  Val PPL:  23.835
+	BLEU Score: 0.093
+step : 0.0 % , loss : 2.967752695083618
+step : 12.79 % , loss : 3.1509015560150146
+step : 25.58 % , loss : 3.2219624519348145
+step : 38.36 % , loss : 3.2443299293518066
+step : 51.15 % , loss : 3.20288348197937
+step : 63.94 % , loss : 3.081364870071411
+step : 76.73 % , loss : 3.2463812828063965
+step : 89.51 % , loss : 3.241903066635132
+Epoch: 51
+Epoch time : 0.059631675018204586hrs
+	Train Loss: 3.200 | Train PPL:  24.531
+	Val Loss: 3.176 |  Val PPL:  23.945
+	BLEU Score: 0.093
+step : 0.0 % , loss : 2.93339204788208
+step : 12.79 % , loss : 3.203217029571533
+step : 25.58 % , loss : 3.0241191387176514
+step : 38.36 % , loss : 3.256153106689453
+step : 51.15 % , loss : 3.262624502182007
+step : 63.94 % , loss : 3.1155314445495605
+step : 76.73 % , loss : 3.1032769680023193
+step : 89.51 % , loss : 3.09684681892395
+Epoch: 52
+Epoch time : 0.059592178397708466hrs
+	Train Loss: 3.198 | Train PPL:  24.483
+	Val Loss: 3.178 |  Val PPL:  24.005
+	BLEU Score: 0.098
+step : 0.0 % , loss : 3.105116128921509
+step : 12.79 % , loss : 3.114103317260742
+step : 25.58 % , loss : 2.982189893722534
+step : 38.36 % , loss : 3.1577608585357666
+step : 51.15 % , loss : 3.178966760635376
+step : 63.94 % , loss : 6.931866645812988
+step : 76.73 % , loss : 6.427602291107178
+step : 89.51 % , loss : 6.305227756500244
+Epoch: 53
+Epoch time : 0.059509427415000066hrs
+	Train Loss: 4.356 | Train PPL:  77.921
+	Val Loss: 6.233 |  Val PPL: 509.527
+	BLEU Score: 0.000
+step : 0.0 % , loss : 6.292723178863525
+step : 12.79 % , loss : 6.072888374328613
+step : 25.58 % , loss : 5.7010931968688965
+step : 38.36 % , loss : 4.964475631713867
+step : 51.15 % , loss : 4.955957412719727
+step : 63.94 % , loss : 4.875831604003906
+step : 76.73 % , loss : 4.699056625366211
+step : 89.51 % , loss : 4.869997024536133
+Epoch: 54
+Epoch time : 0.05965283652146657hrs
+	Train Loss: 5.219 | Train PPL: 184.714
+	Val Loss: 4.689 |  Val PPL: 108.747
+	BLEU Score: 0.001
+step : 0.0 % , loss : 4.84161901473999
+step : 12.79 % , loss : 4.7317376136779785
+step : 25.58 % , loss : 4.714480876922607
+step : 38.36 % , loss : 4.810937404632568
+step : 51.15 % , loss : 4.760080337524414
+step : 63.94 % , loss : 4.7684407234191895
+step : 76.73 % , loss : 4.6897053718566895
+step : 89.51 % , loss : 4.619492053985596
+Epoch: 55
+Epoch time : 0.059762238793902925hrs
+	Train Loss: 4.734 | Train PPL: 113.787
+	Val Loss: 4.629 |  Val PPL: 102.460
+	BLEU Score: 0.001
+step : 0.0 % , loss : 4.6901326179504395
+step : 12.79 % , loss : 4.696602821350098
+step : 25.58 % , loss : 4.667962551116943
+step : 38.36 % , loss : 4.7366743087768555
+step : 51.15 % , loss : 4.803159713745117
+step : 63.94 % , loss : 4.7372822761535645
+step : 76.73 % , loss : 4.776419639587402
+step : 89.51 % , loss : 4.702668190002441
+Epoch: 56
+Epoch time : 0.05956148127714793hrs
+	Train Loss: 4.690 | Train PPL: 108.886
+	Val Loss: 4.613 |  Val PPL: 100.764
+	BLEU Score: 0.001
+step : 0.0 % , loss : 4.610990047454834
+step : 12.79 % , loss : 4.660674095153809
+step : 25.58 % , loss : 4.741608619689941
+step : 38.36 % , loss : 4.780372142791748
+step : 51.15 % , loss : 4.766244411468506
+step : 63.94 % , loss : 4.512307643890381
+step : 76.73 % , loss : 4.357769966125488
+step : 89.51 % , loss : 4.290734767913818
+Epoch: 57
+Epoch time : 0.05957328743404812hrs
+	Train Loss: 4.514 | Train PPL:  91.266
+	Val Loss: 3.819 |  Val PPL:  45.568
+	BLEU Score: 0.040
+step : 0.0 % , loss : 3.907933473587036
+step : 12.79 % , loss : 3.8691797256469727
+step : 25.58 % , loss : 3.6974194049835205
+step : 38.36 % , loss : 3.619814395904541
+step : 51.15 % , loss : 3.717881441116333
+step : 63.94 % , loss : 3.6962532997131348
+step : 76.73 % , loss : 3.7137882709503174
+step : 89.51 % , loss : 3.566102981567383
+Epoch: 58
+Epoch time : 0.059581979910532636hrs
+	Train Loss: 3.702 | Train PPL:  40.537
+	Val Loss: 3.441 |  Val PPL:  31.225
+	BLEU Score: 0.069
+step : 0.0 % , loss : 3.4032371044158936
+step : 12.79 % , loss : 3.5655734539031982
+step : 25.58 % , loss : 3.5737228393554688
+step : 38.36 % , loss : 3.447880268096924
+step : 51.15 % , loss : 3.4957051277160645
+step : 63.94 % , loss : 3.5059378147125244
+step : 76.73 % , loss : 3.59287428855896
+step : 89.51 % , loss : 3.4944803714752197
+Epoch: 59
+Epoch time : 0.05971263322565291hrs
+	Train Loss: 3.493 | Train PPL:  32.900
+	Val Loss: 3.339 |  Val PPL:  28.197
+	BLEU Score: 0.078
+step : 0.0 % , loss : 3.416898250579834
+step : 12.79 % , loss : 3.297447681427002
+step : 25.58 % , loss : 3.378396987915039
+step : 38.36 % , loss : 3.2766950130462646
+step : 51.15 % , loss : 3.3000900745391846
+step : 63.94 % , loss : 3.4942197799682617
+step : 76.73 % , loss : 3.552201747894287
+step : 89.51 % , loss : 3.367288112640381
+Epoch: 60
+Epoch time : 0.05946753621101379hrs
+	Train Loss: 3.399 | Train PPL:  29.946
+	Val Loss: 3.294 |  Val PPL:  26.951
+	BLEU Score: 0.083
+step : 0.0 % , loss : 3.305311918258667
+step : 12.79 % , loss : 3.347625494003296
+step : 25.58 % , loss : 3.3962368965148926
+step : 38.36 % , loss : 3.252324104309082
+step : 51.15 % , loss : 3.3711180686950684
+step : 63.94 % , loss : 3.422802448272705
+step : 76.73 % , loss : 3.2859814167022705
+step : 89.51 % , loss : 3.358525276184082
+Epoch: 61
+Epoch time : 0.05952467136912876hrs
+	Train Loss: 3.346 | Train PPL:  28.396
+	Val Loss: 3.271 |  Val PPL:  26.327
+	BLEU Score: 0.087
+step : 0.0 % , loss : 3.2644264698028564
+step : 12.79 % , loss : 3.18397855758667
+step : 25.58 % , loss : 3.245044469833374
+step : 38.36 % , loss : 3.2847135066986084
+step : 51.15 % , loss : 3.299765110015869
+step : 63.94 % , loss : 3.413400411605835
+step : 76.73 % , loss : 3.3034939765930176
+step : 89.51 % , loss : 3.4191815853118896
+Epoch: 62
+Epoch time : 0.059607209629482696hrs
+	Train Loss: 3.308 | Train PPL:  27.344
+	Val Loss: 3.250 |  Val PPL:  25.796
+	BLEU Score: 0.093
+step : 0.0 % , loss : 3.2917022705078125
+step : 12.79 % , loss : 3.145314931869507
+step : 25.58 % , loss : 3.3354010581970215
+step : 38.36 % , loss : 3.3406336307525635
+step : 51.15 % , loss : 3.257154941558838
+step : 63.94 % , loss : 3.2207753658294678
+step : 76.73 % , loss : 3.4095237255096436
+step : 89.51 % , loss : 3.4019265174865723
+Epoch: 63
+Epoch time : 0.05965446048312717hrs
+	Train Loss: 3.284 | Train PPL:  26.679
+	Val Loss: 3.236 |  Val PPL:  25.420
+	BLEU Score: 0.085
+step : 0.0 % , loss : 3.2026569843292236
+step : 12.79 % , loss : 3.099923610687256
+step : 25.58 % , loss : 3.2236597537994385
+step : 38.36 % , loss : 3.1157922744750977
+step : 51.15 % , loss : 3.3291330337524414
+step : 63.94 % , loss : 3.279280424118042
+step : 76.73 % , loss : 3.310349464416504
+step : 89.51 % , loss : 3.282607078552246
+Epoch: 64
+Epoch time : 0.059519021842214796hrs
+	Train Loss: 3.267 | Train PPL:  26.222
+	Val Loss: 3.212 |  Val PPL:  24.824
+	BLEU Score: 0.091
+step : 0.0 % , loss : 3.204214572906494
+step : 12.79 % , loss : 3.357680559158325
+step : 25.58 % , loss : 3.190229654312134
+step : 38.36 % , loss : 3.2101476192474365
+step : 51.15 % , loss : 3.146050214767456
+step : 63.94 % , loss : 3.3479535579681396
+step : 76.73 % , loss : 3.3639986515045166
+step : 89.51 % , loss : 3.442523717880249
+Epoch: 65
+Epoch time : 0.059737392001681856hrs
+	Train Loss: 3.254 | Train PPL:  25.901
+	Val Loss: 3.207 |  Val PPL:  24.703
+	BLEU Score: 0.089
+step : 0.0 % , loss : 3.0312564373016357
+step : 12.79 % , loss : 3.206803560256958
+step : 25.58 % , loss : 3.1953072547912598
+step : 38.36 % , loss : 3.209860324859619
+step : 51.15 % , loss : 3.2186691761016846
+step : 63.94 % , loss : 3.1805484294891357
+step : 76.73 % , loss : 3.227611780166626
+step : 89.51 % , loss : 6.454031944274902
+Epoch: 66
+Epoch time : 0.059748670061429345hrs
+	Train Loss: 3.875 | Train PPL:  48.182
+	Val Loss: 6.221 |  Val PPL: 503.275
+	BLEU Score: 0.000
+step : 0.0 % , loss : 6.307971000671387
+step : 12.79 % , loss : 5.84149694442749
+step : 25.58 % , loss : 5.006045818328857
+step : 38.36 % , loss : 4.963591575622559
+step : 51.15 % , loss : 4.787143707275391
+step : 63.94 % , loss : 5.071403503417969
+step : 76.73 % , loss : 4.697704792022705
+step : 89.51 % , loss : 4.8140869140625
+Epoch: 67
+Epoch time : 0.05956650508774652hrs
+	Train Loss: 5.054 | Train PPL: 156.598
+	Val Loss: 4.631 |  Val PPL: 102.588
+	BLEU Score: 0.002
+step : 0.0 % , loss : 4.688024520874023
+step : 12.79 % , loss : 4.620448112487793
+step : 25.58 % , loss : 3.7578327655792236
+step : 38.36 % , loss : 3.5639262199401855
+step : 51.15 % , loss : 3.6196489334106445
+step : 63.94 % , loss : 3.445763349533081
+step : 76.73 % , loss : 3.470824718475342
+step : 89.51 % , loss : 3.4283089637756348
+Epoch: 68
+Epoch time : 0.059593150549464756hrs
+	Train Loss: 3.732 | Train PPL:  41.758
+	Val Loss: 3.286 |  Val PPL:  26.735
+	BLEU Score: 0.084
+step : 0.0 % , loss : 3.305675506591797
+step : 12.79 % , loss : 3.24872088432312
+step : 25.58 % , loss : 3.2783217430114746
+step : 38.36 % , loss : 3.4292821884155273
+step : 51.15 % , loss : 3.362363815307617
+step : 63.94 % , loss : 3.2433888912200928
+step : 76.73 % , loss : 3.3186373710632324
+step : 89.51 % , loss : 3.365781307220459
+Epoch: 69
+Epoch time : 0.05970518615510729hrs
+	Train Loss: 3.321 | Train PPL:  27.692
+	Val Loss: 3.246 |  Val PPL:  25.679
+	BLEU Score: 0.086
+step : 0.0 % , loss : 3.071803331375122
+step : 12.79 % , loss : 3.126164436340332
+step : 25.58 % , loss : 3.262407064437866
+step : 38.36 % , loss : 3.1136982440948486
+step : 51.15 % , loss : 3.2285501956939697
+step : 63.94 % , loss : 3.3760199546813965
+step : 76.73 % , loss : 3.289515733718872
+step : 89.51 % , loss : 3.3277533054351807
+Epoch: 70
+Epoch time : 0.0598377228445477hrs
+	Train Loss: 3.271 | Train PPL:  26.336
+	Val Loss: 3.231 |  Val PPL:  25.297
+	BLEU Score: 0.087
+step : 0.0 % , loss : 3.2930822372436523
+step : 12.79 % , loss : 3.1783173084259033
+step : 25.58 % , loss : 3.328394889831543
+step : 38.36 % , loss : 3.2112972736358643
+step : 51.15 % , loss : 3.2917330265045166
+step : 63.94 % , loss : 3.334230661392212
+step : 76.73 % , loss : 3.1511852741241455
+step : 89.51 % , loss : 3.3564577102661133
+Epoch: 71
+Epoch time : 0.05956494914160834hrs
+	Train Loss: 3.249 | Train PPL:  25.764
+	Val Loss: 3.192 |  Val PPL:  24.347
+	BLEU Score: 0.093
+step : 0.0 % , loss : 3.1252083778381348
+step : 12.79 % , loss : 3.128042697906494
+step : 25.58 % , loss : 3.0985333919525146
+step : 38.36 % , loss : 3.217846632003784
+step : 51.15 % , loss : 3.1611275672912598
+step : 63.94 % , loss : 3.223902702331543
+step : 76.73 % , loss : 3.2272794246673584
+step : 89.51 % , loss : 3.3414039611816406
+Epoch: 72
+Epoch time : 0.059563101397620305hrs
+	Train Loss: 3.234 | Train PPL:  25.379
+	Val Loss: 3.195 |  Val PPL:  24.404
+	BLEU Score: 0.093
+step : 0.0 % , loss : 2.882951259613037
+step : 12.79 % , loss : 3.1471598148345947
+step : 25.58 % , loss : 3.2171192169189453
+step : 38.36 % , loss : 3.2617905139923096
+step : 51.15 % , loss : 3.220808267593384
+step : 63.94 % , loss : 3.1246449947357178
+step : 76.73 % , loss : 3.322291374206543
+step : 89.51 % , loss : 3.256410837173462
+Epoch: 73
+Epoch time : 0.059619271357854206hrs
+	Train Loss: 3.225 | Train PPL:  25.158
+	Val Loss: 3.191 |  Val PPL:  24.324
+	BLEU Score: 0.093
+step : 0.0 % , loss : 3.124513626098633
+step : 12.79 % , loss : 3.0367965698242188
+step : 25.58 % , loss : 3.327948570251465
+step : 38.36 % , loss : 3.1937124729156494
+step : 51.15 % , loss : 3.292198657989502
+step : 63.94 % , loss : 3.2919647693634033
+step : 76.73 % , loss : 3.3472506999969482
+step : 89.51 % , loss : 3.210597515106201
+Epoch: 74
+Epoch time : 0.05972564147578346hrs
+	Train Loss: 3.220 | Train PPL:  25.018
+	Val Loss: 3.192 |  Val PPL:  24.344
+	BLEU Score: 0.087
+step : 0.0 % , loss : 2.967682123184204
+step : 12.79 % , loss : 3.14054536819458
+step : 25.58 % , loss : 3.2621960639953613
+step : 38.36 % , loss : 3.133938789367676
+step : 51.15 % , loss : 3.4066431522369385
+step : 63.94 % , loss : 3.338498115539551
+step : 76.73 % , loss : 3.3575453758239746
+step : 89.51 % , loss : 3.234860897064209
+Epoch: 75
+Epoch time : 0.059741516709327695hrs
+	Train Loss: 3.211 | Train PPL:  24.811
+	Val Loss: 3.191 |  Val PPL:  24.322
+	BLEU Score: 0.088
+step : 0.0 % , loss : 3.045828104019165
+step : 12.79 % , loss : 3.3116652965545654
+step : 25.58 % , loss : 3.1417863368988037
+step : 38.36 % , loss : 3.29609751701355
+step : 51.15 % , loss : 3.0914571285247803
+step : 63.94 % , loss : 3.423964262008667
+step : 76.73 % , loss : 3.253262996673584
+step : 89.51 % , loss : 3.171178102493286
+Epoch: 76
+Epoch time : 0.05955366333325704hrs
+	Train Loss: 3.207 | Train PPL:  24.700
+	Val Loss: 3.168 |  Val PPL:  23.755
+	BLEU Score: 0.093
+step : 0.0 % , loss : 3.067168712615967
+step : 12.79 % , loss : 2.9304213523864746
+step : 25.58 % , loss : 3.207962989807129
+step : 38.36 % , loss : 3.1365225315093994
+step : 51.15 % , loss : 3.213332176208496
+step : 63.94 % , loss : 3.1539065837860107
+step : 76.73 % , loss : 3.3140063285827637
+step : 89.51 % , loss : 3.238586664199829
+Epoch: 77
+Epoch time : 0.059622355699539185hrs
+	Train Loss: 3.203 | Train PPL:  24.601
+	Val Loss: 3.163 |  Val PPL:  23.636
+	BLEU Score: 0.091
+step : 0.0 % , loss : 3.1535418033599854
+step : 12.79 % , loss : 3.0878050327301025
+step : 25.58 % , loss : 3.2864184379577637
+step : 38.36 % , loss : 3.047645330429077
+step : 51.15 % , loss : 3.401745319366455
+step : 63.94 % , loss : 3.3126776218414307
+step : 76.73 % , loss : 3.305813789367676
+step : 89.51 % , loss : 3.25838565826416
+Epoch: 78
+Epoch time : 0.059767579701211715hrs
+	Train Loss: 3.198 | Train PPL:  24.495
+	Val Loss: 3.168 |  Val PPL:  23.756
+	BLEU Score: 0.089
+step : 0.0 % , loss : 3.0983972549438477
+step : 12.79 % , loss : 2.9733316898345947
+step : 25.58 % , loss : 3.096703290939331
+step : 38.36 % , loss : 3.152620792388916
+step : 51.15 % , loss : 3.3085439205169678
+step : 63.94 % , loss : 3.318406820297241
+step : 76.73 % , loss : 3.132793426513672
+step : 89.51 % , loss : 3.213916301727295
+Epoch: 79
+Epoch time : 0.05961651100052728hrs
+	Train Loss: 3.194 | Train PPL:  24.381
+	Val Loss: 3.166 |  Val PPL:  23.716
+	BLEU Score: 0.091
+step : 0.0 % , loss : 3.0526158809661865
+step : 12.79 % , loss : 3.1368725299835205
+step : 25.58 % , loss : 3.274259328842163
+step : 38.36 % , loss : 3.3535921573638916
+step : 51.15 % , loss : 3.2586538791656494
+step : 63.94 % , loss : 3.180182933807373
+step : 76.73 % , loss : 3.0248851776123047
+step : 89.51 % , loss : 3.1653387546539307
+Epoch: 80
+Epoch time : 0.0595718695057763hrs
+	Train Loss: 3.191 | Train PPL:  24.305
+	Val Loss: 3.190 |  Val PPL:  24.294
+	BLEU Score: 0.095
+step : 0.0 % , loss : 3.144744396209717
+step : 12.79 % , loss : 3.0866174697875977
+step : 25.58 % , loss : 3.168085813522339
+step : 38.36 % , loss : 3.24393630027771
+step : 51.15 % , loss : 3.313850164413452
+step : 63.94 % , loss : 3.2353155612945557
+step : 76.73 % , loss : 3.191540479660034
+step : 89.51 % , loss : 3.1486880779266357
+Epoch: 81
+Epoch time : 0.05950563437408871hrs
+	Train Loss: 3.189 | Train PPL:  24.271
+	Val Loss: 3.176 |  Val PPL:  23.958
+	BLEU Score: 0.094
+step : 0.0 % , loss : 3.2752883434295654
+step : 12.79 % , loss : 3.105316400527954
+step : 25.58 % , loss : 3.0193188190460205
+step : 38.36 % , loss : 3.1337525844573975
+step : 51.15 % , loss : 3.185518264770508
+step : 63.94 % , loss : 3.206373453140259
+step : 76.73 % , loss : 3.1068994998931885
+step : 89.51 % , loss : 3.1980063915252686
+Epoch: 82
+Epoch time : 0.059662126501401264hrs
+	Train Loss: 3.187 | Train PPL:  24.208
+	Val Loss: 3.156 |  Val PPL:  23.476
+	BLEU Score: 0.098
+step : 0.0 % , loss : 3.0200371742248535
+step : 12.79 % , loss : 3.1513519287109375
+step : 25.58 % , loss : 3.237812042236328
+step : 38.36 % , loss : 3.155632257461548
+step : 51.15 % , loss : 3.190340757369995
+step : 63.94 % , loss : 3.091947078704834
+step : 76.73 % , loss : 3.151311159133911
+step : 89.51 % , loss : 3.118781566619873
+Epoch: 83
+Epoch time : 0.05964939812819163hrs
+	Train Loss: 3.183 | Train PPL:  24.118
+	Val Loss: 3.167 |  Val PPL:  23.740
+	BLEU Score: 0.096
+step : 0.0 % , loss : 3.3355631828308105
+step : 12.79 % , loss : 3.226811408996582
+step : 25.58 % , loss : 3.2856974601745605
+step : 38.36 % , loss : 3.256520986557007
+step : 51.15 % , loss : 3.124941825866699
+step : 63.94 % , loss : 3.2969629764556885
+step : 76.73 % , loss : 3.1815874576568604
+step : 89.51 % , loss : 3.103679895401001
+Epoch: 84
+Epoch time : 0.059595665997929044hrs
+	Train Loss: 3.182 | Train PPL:  24.092
+	Val Loss: 3.172 |  Val PPL:  23.857
+	BLEU Score: 0.094
+step : 0.0 % , loss : 2.954604387283325
+step : 12.79 % , loss : 3.2478160858154297
+step : 25.58 % , loss : 3.11750864982605
+step : 38.36 % , loss : 3.2814416885375977
+step : 51.15 % , loss : 3.191993474960327
+step : 63.94 % , loss : 3.2049527168273926
+step : 76.73 % , loss : 3.291843891143799
+step : 89.51 % , loss : 3.1645400524139404
+Epoch: 85
+Epoch time : 0.05964779754479726hrs
+	Train Loss: 3.180 | Train PPL:  24.036
+	Val Loss: 3.146 |  Val PPL:  23.254
+	BLEU Score: 0.099
+step : 0.0 % , loss : 2.953251361846924
+step : 12.79 % , loss : 3.147458076477051
+step : 25.58 % , loss : 3.1348555088043213
+step : 38.36 % , loss : 3.31178617477417
+step : 51.15 % , loss : 3.206439971923828
+step : 63.94 % , loss : 3.1555237770080566
+step : 76.73 % , loss : 3.2090187072753906
+step : 89.51 % , loss : 3.2059218883514404
+Epoch: 86
+Epoch time : 0.059624628093507555hrs
+	Train Loss: 3.177 | Train PPL:  23.985
+	Val Loss: 3.162 |  Val PPL:  23.627
+	BLEU Score: 0.095
+step : 0.0 % , loss : 3.008517265319824
+step : 12.79 % , loss : 3.123918294906616
+step : 25.58 % , loss : 3.1790640354156494
+step : 38.36 % , loss : 3.198573112487793
+step : 51.15 % , loss : 3.3029820919036865
+step : 63.94 % , loss : 3.159355401992798
+step : 76.73 % , loss : 3.1828811168670654
+step : 89.51 % , loss : 3.0938587188720703
+Epoch: 87
+Epoch time : 0.05983240253395505hrs
+	Train Loss: 3.178 | Train PPL:  23.999
+	Val Loss: 3.138 |  Val PPL:  23.061
+	BLEU Score: 0.093
+step : 0.0 % , loss : 3.0356338024139404
+step : 12.79 % , loss : 3.1672401428222656
+step : 25.58 % , loss : 3.226986885070801
+step : 38.36 % , loss : 3.1889562606811523
+step : 51.15 % , loss : 3.323474884033203
+step : 63.94 % , loss : 3.114691972732544
+step : 76.73 % , loss : 3.10676908493042
+step : 89.51 % , loss : 3.1990795135498047
+Epoch: 88
+Epoch time : 0.059665076070361665hrs
+	Train Loss: 3.173 | Train PPL:  23.883
+	Val Loss: 3.155 |  Val PPL:  23.441
+	BLEU Score: 0.096
+step : 0.0 % , loss : 2.9906625747680664
+step : 12.79 % , loss : 3.1660444736480713
+step : 25.58 % , loss : 3.142223596572876
+step : 38.36 % , loss : 3.03367018699646
+step : 51.15 % , loss : 3.1941492557525635
+step : 63.94 % , loss : 3.240550994873047
+step : 76.73 % , loss : 3.2134079933166504
+step : 89.51 % , loss : 3.228768825531006
+Epoch: 89
+Epoch time : 0.059646777643097774hrs
+	Train Loss: 3.174 | Train PPL:  23.911
+	Val Loss: 3.156 |  Val PPL:  23.476
+	BLEU Score: 0.098
+step : 0.0 % , loss : 3.0557126998901367
+step : 12.79 % , loss : 2.965320587158203
+step : 25.58 % , loss : 3.154731273651123
+step : 38.36 % , loss : 3.2234621047973633
+step : 51.15 % , loss : 3.140415906906128
+step : 63.94 % , loss : 3.2393579483032227
+step : 76.73 % , loss : 3.226984739303589
+step : 89.51 % , loss : 3.167064905166626
+Epoch: 90
+Epoch time : 0.05982301698790656hrs
+	Train Loss: 3.172 | Train PPL:  23.850
+	Val Loss: 3.141 |  Val PPL:  23.120
+	BLEU Score: 0.095
+step : 0.0 % , loss : 3.0667879581451416
+step : 12.79 % , loss : 2.9739346504211426
+step : 25.58 % , loss : 3.205385684967041
+step : 38.36 % , loss : 3.2499542236328125
+step : 51.15 % , loss : 3.179582118988037
+step : 63.94 % , loss : 3.306957483291626
+step : 76.73 % , loss : 3.1111109256744385
+step : 89.51 % , loss : 3.350048303604126
+Epoch: 91
+Epoch time : 0.05985659976800283hrs
+	Train Loss: 3.172 | Train PPL:  23.849
+	Val Loss: 3.173 |  Val PPL:  23.876
+	BLEU Score: 0.095
+step : 0.0 % , loss : 3.084096908569336
+step : 12.79 % , loss : 3.088207483291626
+step : 25.58 % , loss : 3.2862753868103027
+step : 38.36 % , loss : 3.1491827964782715
+step : 51.15 % , loss : 3.276505708694458
+step : 63.94 % , loss : 3.4265379905700684
+step : 76.73 % , loss : 3.2950491905212402
+step : 89.51 % , loss : 3.2859392166137695
+Epoch: 92
+Epoch time : 0.059854711029264665hrs
+	Train Loss: 3.168 | Train PPL:  23.755
+	Val Loss: 3.151 |  Val PPL:  23.357
+	BLEU Score: 0.093
+step : 0.0 % , loss : 3.1247570514678955
+step : 12.79 % , loss : 3.2317440509796143
+step : 25.58 % , loss : 3.250227928161621
+step : 38.36 % , loss : 2.9620578289031982
+step : 51.15 % , loss : 3.185948371887207
+step : 63.94 % , loss : 3.130312204360962
+step : 76.73 % , loss : 3.149219512939453
+step : 89.51 % , loss : 3.20487380027771
+Epoch: 93
+Epoch time : 0.0597064150042004hrs
+	Train Loss: 3.169 | Train PPL:  23.781
+	Val Loss: 3.165 |  Val PPL:  23.698
+	BLEU Score: 0.095
+step : 0.0 % , loss : 3.058441400527954
+step : 12.79 % , loss : 3.1186420917510986
+step : 25.58 % , loss : 3.184433698654175
+step : 38.36 % , loss : 3.2026431560516357
+step : 51.15 % , loss : 3.261644124984741
+step : 63.94 % , loss : 3.1886661052703857
+step : 76.73 % , loss : 3.3965635299682617
+step : 89.51 % , loss : 3.178563356399536
+Epoch: 94
+Epoch time : 0.05960015859868791hrs
+	Train Loss: 3.168 | Train PPL:  23.764
+	Val Loss: 3.139 |  Val PPL:  23.092
+	BLEU Score: 0.100
+step : 0.0 % , loss : 3.089177131652832
+step : 12.79 % , loss : 3.1599087715148926
+step : 25.58 % , loss : 3.1231439113616943
+step : 38.36 % , loss : 3.2615249156951904
+step : 51.15 % , loss : 3.182737112045288
+step : 63.94 % , loss : 3.1904296875
+step : 76.73 % , loss : 3.1867928504943848
+step : 89.51 % , loss : 3.310530662536621
+Epoch: 95
+Epoch time : 0.05966061340437995hrs
+	Train Loss: 3.167 | Train PPL:  23.726
+	Val Loss: 3.144 |  Val PPL:  23.191
+	BLEU Score: 0.096
+step : 0.0 % , loss : 2.7523536682128906
+step : 12.79 % , loss : 3.1908938884735107
+step : 25.58 % , loss : 3.092477321624756
+step : 38.36 % , loss : 3.2321670055389404
+step : 51.15 % , loss : 3.353281259536743
+step : 63.94 % , loss : 3.1601593494415283
+step : 76.73 % , loss : 3.2970566749572754
+step : 89.51 % , loss : 3.321509838104248
+Epoch: 96
+Epoch time : 0.059750143024656505hrs
+	Train Loss: 3.166 | Train PPL:  23.712
+	Val Loss: 3.138 |  Val PPL:  23.069
+	BLEU Score: 0.090
+step : 0.0 % , loss : 2.9940226078033447
+step : 12.79 % , loss : 3.096550703048706
+step : 25.58 % , loss : 3.047337293624878
+step : 38.36 % , loss : 3.365159273147583
+step : 51.15 % , loss : 3.0856611728668213
+step : 63.94 % , loss : 3.0741186141967773
+step : 76.73 % , loss : 3.224128007888794
+step : 89.51 % , loss : 3.3759214878082275
+Epoch: 97
+Epoch time : 0.059767378237512374hrs
+	Train Loss: 3.165 | Train PPL:  23.677
+	Val Loss: 3.146 |  Val PPL:  23.233
+	BLEU Score: 0.094
+step : 0.0 % , loss : 2.9933907985687256
+step : 12.79 % , loss : 3.0928258895874023
+step : 25.58 % , loss : 3.3455498218536377
+step : 38.36 % , loss : 3.172398805618286
+step : 51.15 % , loss : 3.4548420906066895
+step : 63.94 % , loss : 3.2370049953460693
+step : 76.73 % , loss : 3.1735637187957764
+step : 89.51 % , loss : 3.0646979808807373
+Epoch: 98
+Epoch time : 0.059575298097398546hrs
+	Train Loss: 3.164 | Train PPL:  23.658
+	Val Loss: 3.142 |  Val PPL:  23.153
+	BLEU Score: 0.098
+step : 0.0 % , loss : 3.0175247192382812
+step : 12.79 % , loss : 3.1381959915161133
+step : 25.58 % , loss : 3.1337978839874268
+step : 38.36 % , loss : 3.165792465209961
+step : 51.15 % , loss : 3.210145950317383
+step : 63.94 % , loss : 3.2093100547790527
+step : 76.73 % , loss : 3.1100988388061523
+step : 89.51 % , loss : 3.462043523788452
+Epoch: 99
+Epoch time : 0.059622882935735914hrs
+	Train Loss: 3.161 | Train PPL:  23.602
+	Val Loss: 3.150 |  Val PPL:  23.342
+	BLEU Score: 0.100
+step : 0.0 % , loss : 3.115539312362671
+step : 12.79 % , loss : 3.0395045280456543
+step : 25.58 % , loss : 3.106502056121826
+step : 38.36 % , loss : 3.2262017726898193
+step : 51.15 % , loss : 3.118229627609253
+step : 63.94 % , loss : 3.191464900970459
+step : 76.73 % , loss : 3.2620580196380615
+step : 89.51 % , loss : 3.2254042625427246
+Epoch: 100
+Epoch time : 0.05977845900588565hrs
+	Train Loss: 3.162 | Train PPL:  23.626
+	Val Loss: 3.151 |  Val PPL:  23.350
+	BLEU Score: 0.098
+step : 0.0 % , loss : 2.9421303272247314
+step : 12.79 % , loss : 2.950760841369629
+step : 25.58 % , loss : 3.2383923530578613
+step : 38.36 % , loss : 3.037325859069824
+step : 51.15 % , loss : 3.2092878818511963
+step : 63.94 % , loss : 3.1551668643951416
+step : 76.73 % , loss : 3.243079662322998
+step : 89.51 % , loss : 3.300360679626465
+Epoch: 101
+Epoch time : 0.059624168872833255hrs
+	Train Loss: 3.162 | Train PPL:  23.624
+	Val Loss: 3.138 |  Val PPL:  23.054
+	BLEU Score: 0.102
+step : 0.0 % , loss : 3.0667948722839355
+step : 12.79 % , loss : 3.101320505142212
+step : 25.58 % , loss : 2.995481014251709
+step : 38.36 % , loss : 3.1605324745178223
+step : 51.15 % , loss : 3.3165016174316406
+step : 63.94 % , loss : 3.3601925373077393
+step : 76.73 % , loss : 3.2431912422180176
+step : 89.51 % , loss : 3.1407954692840576
+Epoch: 102
+Epoch time : 0.059796879357761804hrs
+	Train Loss: 3.159 | Train PPL:  23.557
+	Val Loss: 3.142 |  Val PPL:  23.147
+	BLEU Score: 0.095
+step : 0.0 % , loss : 2.9683496952056885
+step : 12.79 % , loss : 3.1187102794647217
+step : 25.58 % , loss : 3.2277276515960693
+step : 38.36 % , loss : 3.0716302394866943
+step : 51.15 % , loss : 3.2730627059936523
+step : 63.94 % , loss : 3.3025290966033936
+step : 76.73 % , loss : 2.9956281185150146
+step : 89.51 % , loss : 3.1470448970794678
+Epoch: 103
+Epoch time : 0.059551784329944187hrs
+	Train Loss: 3.158 | Train PPL:  23.528
+	Val Loss: 3.141 |  Val PPL:  23.124
+	BLEU Score: 0.096
+step : 0.0 % , loss : 2.9567337036132812
+step : 12.79 % , loss : 3.212873935699463
+step : 25.58 % , loss : 3.1956393718719482
+step : 38.36 % , loss : 3.040940046310425
+step : 51.15 % , loss : 3.3814334869384766
+step : 63.94 % , loss : 3.3145999908447266
+step : 76.73 % , loss : 3.191312074661255
+step : 89.51 % , loss : 3.2295262813568115
+Epoch: 104
+Epoch time : 0.0596748626894421hrs
+	Train Loss: 3.157 | Train PPL:  23.488
+	Val Loss: 3.141 |  Val PPL:  23.118
+	BLEU Score: 0.100
+step : 0.0 % , loss : 3.060750961303711
+step : 12.79 % , loss : 3.04288911819458
+step : 25.58 % , loss : 3.1292123794555664
+step : 38.36 % , loss : 3.163670301437378
+step : 51.15 % , loss : 3.2393994331359863
+step : 63.94 % , loss : 3.2809462547302246
+step : 76.73 % , loss : 3.204465389251709
+step : 89.51 % , loss : 3.1690895557403564
+Epoch: 105
+Epoch time : 0.05970923615826501hrs
+	Train Loss: 3.158 | Train PPL:  23.518
+	Val Loss: 3.120 |  Val PPL:  22.646
+	BLEU Score: 0.098
+step : 0.0 % , loss : 3.0445120334625244
+step : 12.79 % , loss : 3.0602049827575684
+step : 25.58 % , loss : 3.19842791557312
+step : 38.36 % , loss : 3.123055934906006
+step : 51.15 % , loss : 3.2413129806518555
+step : 63.94 % , loss : 3.224029541015625
+step : 76.73 % , loss : 3.2573208808898926
+step : 89.51 % , loss : 3.132087469100952
+Epoch: 106
+Epoch time : 0.059726412230067784hrs
+	Train Loss: 3.157 | Train PPL:  23.502
+	Val Loss: 3.128 |  Val PPL:  22.837
+	BLEU Score: 0.098
+step : 0.0 % , loss : 3.142235517501831
+step : 12.79 % , loss : 2.9549601078033447
+step : 25.58 % , loss : 3.2326509952545166
+step : 38.36 % , loss : 3.152310609817505
+step : 51.15 % , loss : 3.233631134033203
+step : 63.94 % , loss : 3.254007577896118
+step : 76.73 % , loss : 3.1807706356048584
+step : 89.51 % , loss : 3.178527355194092
+Epoch: 107
+Epoch time : 0.059621681769688926hrs
+	Train Loss: 3.154 | Train PPL:  23.438
+	Val Loss: 3.131 |  Val PPL:  22.899
+	BLEU Score: 0.095
+step : 0.0 % , loss : 2.8554537296295166
+step : 12.79 % , loss : 3.026193380355835
+step : 25.58 % , loss : 3.0026848316192627
+step : 38.36 % , loss : 3.1373941898345947
+step : 51.15 % , loss : 5.04768180847168
+step : 63.94 % , loss : 5.02273416519165
+step : 76.73 % , loss : 5.001819133758545
+step : 89.51 % , loss : 4.840639591217041
+Epoch: 108
+Epoch time : 0.059718031419648064hrs
+	Train Loss: 4.194 | Train PPL:  66.298
+	Val Loss: 4.683 |  Val PPL: 108.118
+	BLEU Score: 0.002
+step : 0.0 % , loss : 4.726476669311523
+step : 12.79 % , loss : 4.590804576873779
+step : 25.58 % , loss : 4.606861114501953
+step : 38.36 % , loss : 4.795573711395264
+step : 51.15 % , loss : 4.73667049407959
+step : 63.94 % , loss : 4.7325334548950195
+step : 76.73 % , loss : 4.717966079711914
+step : 89.51 % , loss : 4.757491588592529
+Epoch: 109
+Epoch time : 0.059845250050226846hrs
+	Train Loss: 4.711 | Train PPL: 111.193
+	Val Loss: 4.607 |  Val PPL: 100.185
+	BLEU Score: 0.002
+step : 0.0 % , loss : 4.568173885345459
+step : 12.79 % , loss : 4.575586795806885
+step : 25.58 % , loss : 4.540660858154297
+step : 38.36 % , loss : 4.6283063888549805
+step : 51.15 % , loss : 4.726489543914795
+step : 63.94 % , loss : 4.64614725112915
+step : 76.73 % , loss : 4.665215492248535
+step : 89.51 % , loss : 4.560966491699219
+Epoch: 110
+Epoch time : 0.05966645101706187hrs
+	Train Loss: 4.668 | Train PPL: 106.462
+	Val Loss: 4.599 |  Val PPL:  99.345
+	BLEU Score: 0.002
+step : 0.0 % , loss : 4.600563049316406
+step : 12.79 % , loss : 4.578458309173584
+step : 25.58 % , loss : 4.679462432861328
+step : 38.36 % , loss : 4.562716960906982
+step : 51.15 % , loss : 4.725118637084961
+step : 63.94 % , loss : 4.541167736053467
+step : 76.73 % , loss : 4.522497177124023
+step : 89.51 % , loss : 4.2161078453063965
+Epoch: 111
+Epoch time : 0.059840731024742126hrs
+	Train Loss: 4.570 | Train PPL:  96.557
+	Val Loss: 3.849 |  Val PPL:  46.959
+	BLEU Score: 0.036
+step : 0.0 % , loss : 3.911384344100952
+step : 12.79 % , loss : 3.8341574668884277
+step : 25.58 % , loss : 3.635995626449585
+step : 38.36 % , loss : 3.7037837505340576
+step : 51.15 % , loss : 3.5340592861175537
+step : 63.94 % , loss : 3.419982433319092
+step : 76.73 % , loss : 3.54398512840271
+step : 89.51 % , loss : 3.401362419128418
+Epoch: 112
+Epoch time : 0.05965412822034624hrs
+	Train Loss: 3.618 | Train PPL:  37.269
+	Val Loss: 3.339 |  Val PPL:  28.186
+	BLEU Score: 0.078
+step : 0.0 % , loss : 3.1948606967926025
+step : 12.79 % , loss : 3.221315383911133
+step : 25.58 % , loss : 3.304778814315796
+step : 38.36 % , loss : 3.375216245651245
+step : 51.15 % , loss : 3.4930241107940674
+step : 63.94 % , loss : 3.454228162765503
+step : 76.73 % , loss : 3.1912100315093994
+step : 89.51 % , loss : 3.4446465969085693
+Epoch: 113
+Epoch time : 0.05974639786614312hrs
+	Train Loss: 3.364 | Train PPL:  28.917
+	Val Loss: 3.245 |  Val PPL:  25.668
+	BLEU Score: 0.082
+step : 0.0 % , loss : 3.0506019592285156
+step : 12.79 % , loss : 3.240934371948242
+step : 25.58 % , loss : 3.18998384475708
+step : 38.36 % , loss : 3.1880292892456055
+step : 51.15 % , loss : 3.2499101161956787
+step : 63.94 % , loss : 3.226311683654785
+step : 76.73 % , loss : 3.1657721996307373
+step : 89.51 % , loss : 3.156653881072998
+Epoch: 114
+Epoch time : 0.059751921958393524hrs
+	Train Loss: 3.191 | Train PPL:  24.301
+	Val Loss: 3.159 |  Val PPL:  23.535
+	BLEU Score: 0.088
+step : 0.0 % , loss : 3.0416743755340576
+step : 12.79 % , loss : 3.1667773723602295
+step : 25.58 % , loss : 3.0045552253723145
+step : 38.36 % , loss : 3.112056255340576
+step : 51.15 % , loss : 3.145416259765625
+step : 63.94 % , loss : 3.163849115371704
+step : 76.73 % , loss : 3.267965793609619
+step : 89.51 % , loss : 3.0671072006225586
+Epoch: 115
+Epoch time : 0.059592913256751166hrs
+	Train Loss: 3.144 | Train PPL:  23.190
+	Val Loss: 3.143 |  Val PPL:  23.163
+	BLEU Score: 0.089
+step : 0.0 % , loss : 3.122347593307495
+step : 12.79 % , loss : 3.2173097133636475
+step : 25.58 % , loss : 3.0555834770202637
+step : 38.36 % , loss : 3.0574495792388916
+step : 51.15 % , loss : 3.0391316413879395
+step : 63.94 % , loss : 3.016057014465332
+step : 76.73 % , loss : 3.0947189331054688
+step : 89.51 % , loss : 3.131453037261963
+Epoch: 116
+Epoch time : 0.05977128048737844hrs
+	Train Loss: 3.115 | Train PPL:  22.543
+	Val Loss: 3.125 |  Val PPL:  22.758
+	BLEU Score: 0.095
+step : 0.0 % , loss : 3.097952365875244
+step : 12.79 % , loss : 3.1089015007019043
+step : 25.58 % , loss : 3.081585645675659
+step : 38.36 % , loss : 3.1734790802001953
+step : 51.15 % , loss : 3.0123748779296875
+step : 63.94 % , loss : 3.179771900177002
+step : 76.73 % , loss : 3.087242841720581
+step : 89.51 % , loss : 3.1640870571136475
+Epoch: 117
+Epoch time : 0.059660762084854976hrs
+	Train Loss: 3.096 | Train PPL:  22.116
+	Val Loss: 3.120 |  Val PPL:  22.652
+	BLEU Score: 0.099
+step : 0.0 % , loss : 2.9031612873077393
+step : 12.79 % , loss : 2.9926204681396484
+step : 25.58 % , loss : 3.0060880184173584
+step : 38.36 % , loss : 3.120227336883545
+step : 51.15 % , loss : 3.2247438430786133
+step : 63.94 % , loss : 2.9626407623291016
+step : 76.73 % , loss : 3.2430288791656494
+step : 89.51 % , loss : 3.16461443901062
+Epoch: 118
+Epoch time : 0.05938220898310343hrs
+	Train Loss: 3.080 | Train PPL:  21.757
+	Val Loss: 3.106 |  Val PPL:  22.330
+	BLEU Score: 0.101
+step : 0.0 % , loss : 3.063694953918457
+step : 12.79 % , loss : 3.0246763229370117
+step : 25.58 % , loss : 2.97835111618042
+step : 38.36 % , loss : 3.0556774139404297
+step : 51.15 % , loss : 3.134909152984619
+step : 63.94 % , loss : 3.21657395362854
+step : 76.73 % , loss : 3.097388744354248
+step : 89.51 % , loss : 3.131248712539673
+Epoch: 119
+Epoch time : 0.059549797574679056hrs
+	Train Loss: 3.070 | Train PPL:  21.537
+	Val Loss: 3.109 |  Val PPL:  22.393
+	BLEU Score: 0.098
+step : 0.0 % , loss : 2.969352960586548
+step : 12.79 % , loss : 2.9800174236297607
+step : 25.58 % , loss : 3.0070602893829346
+step : 38.36 % , loss : 3.1090409755706787
+step : 51.15 % , loss : 3.061167001724243
+step : 63.94 % , loss : 3.0802178382873535
+step : 76.73 % , loss : 3.067476511001587
+step : 89.51 % , loss : 3.092475175857544
+Epoch: 120
+Epoch time : 0.05937399281395806hrs
+	Train Loss: 3.059 | Train PPL:  21.317
+	Val Loss: 3.099 |  Val PPL:  22.174
+	BLEU Score: 0.103
+step : 0.0 % , loss : 3.017185926437378
+step : 12.79 % , loss : 3.0450730323791504
+step : 25.58 % , loss : 2.994826316833496
+step : 38.36 % , loss : 3.197828531265259
+step : 51.15 % , loss : 3.0503621101379395
+step : 63.94 % , loss : 2.953274965286255
+step : 76.73 % , loss : 2.993757486343384
+step : 89.51 % , loss : 3.138338804244995
+Epoch: 121
+Epoch time : 0.05953317721684774hrs
+	Train Loss: 3.052 | Train PPL:  21.150
+	Val Loss: 3.100 |  Val PPL:  22.190
+	BLEU Score: 0.096
+step : 0.0 % , loss : 2.85789155960083
+step : 12.79 % , loss : 3.1557424068450928
+step : 25.58 % , loss : 3.0061824321746826
+step : 38.36 % , loss : 3.0795493125915527
+step : 51.15 % , loss : 3.1554653644561768
+step : 63.94 % , loss : 3.1383395195007324
+step : 76.73 % , loss : 3.0769126415252686
+step : 89.51 % , loss : 3.0401997566223145
+Epoch: 122
+Epoch time : 0.05933851520220439hrs
+	Train Loss: 3.047 | Train PPL:  21.044
+	Val Loss: 3.105 |  Val PPL:  22.300
+	BLEU Score: 0.100
+step : 0.0 % , loss : 2.877195358276367
+step : 12.79 % , loss : 2.913029670715332
+step : 25.58 % , loss : 3.133760690689087
+step : 38.36 % , loss : 3.1289031505584717
+step : 51.15 % , loss : 3.0858922004699707
+step : 63.94 % , loss : 2.9775326251983643
+step : 76.73 % , loss : 3.0815606117248535
+step : 89.51 % , loss : 3.249241590499878
+Epoch: 123
+Epoch time : 0.05935598181353675hrs
+	Train Loss: 3.041 | Train PPL:  20.923
+	Val Loss: 3.081 |  Val PPL:  21.789
+	BLEU Score: 0.100
+step : 0.0 % , loss : 2.9057679176330566
+step : 12.79 % , loss : 2.9400267601013184
+step : 25.58 % , loss : 2.8647358417510986
+step : 38.36 % , loss : 3.00016713142395
+step : 51.15 % , loss : 3.0294785499572754
+step : 63.94 % , loss : 3.0306546688079834
+step : 76.73 % , loss : 3.154813766479492
+step : 89.51 % , loss : 3.186110019683838
+Epoch: 124
+Epoch time : 0.05967373569806417hrs
+	Train Loss: 3.039 | Train PPL:  20.885
+	Val Loss: 3.091 |  Val PPL:  22.005
+	BLEU Score: 0.100
+step : 0.0 % , loss : 2.953227996826172
+step : 12.79 % , loss : 3.0636532306671143
+step : 25.58 % , loss : 3.119109630584717
+step : 38.36 % , loss : 3.0781137943267822
+step : 51.15 % , loss : 3.0268146991729736
+step : 63.94 % , loss : 3.045546531677246
+step : 76.73 % , loss : 3.1209943294525146
+step : 89.51 % , loss : 3.1249945163726807
+Epoch: 125
+Epoch time : 0.059502951833936904hrs
+	Train Loss: 3.032 | Train PPL:  20.735
+	Val Loss: 3.097 |  Val PPL:  22.137
+	BLEU Score: 0.097
+step : 0.0 % , loss : 2.9426403045654297
+step : 12.79 % , loss : 2.8254199028015137
+step : 25.58 % , loss : 3.068042755126953
+step : 38.36 % , loss : 2.999671220779419
+step : 51.15 % , loss : 3.0340769290924072
+step : 63.94 % , loss : 2.9911324977874756
+step : 76.73 % , loss : 3.1545844078063965
+step : 89.51 % , loss : 3.1397199630737305
+Epoch: 126
+Epoch time : 0.05942412614822388hrs
+	Train Loss: 3.030 | Train PPL:  20.698
+	Val Loss: 3.086 |  Val PPL:  21.879
+	BLEU Score: 0.099
+step : 0.0 % , loss : 2.927537202835083
+step : 12.79 % , loss : 2.8535234928131104
+step : 25.58 % , loss : 2.966933488845825
+step : 38.36 % , loss : 2.922718048095703
+step : 51.15 % , loss : 3.1439297199249268
+step : 63.94 % , loss : 3.1222565174102783
+step : 76.73 % , loss : 3.044457197189331
+step : 89.51 % , loss : 3.1005096435546875
+Epoch: 127
+Epoch time : 0.059349982142448424hrs
+	Train Loss: 3.025 | Train PPL:  20.593
+	Val Loss: 3.082 |  Val PPL:  21.810
+	BLEU Score: 0.101
+step : 0.0 % , loss : 2.885592460632324
+step : 12.79 % , loss : 2.8492329120635986
+step : 25.58 % , loss : 3.1248703002929688
+step : 38.36 % , loss : 3.0416030883789062
+step : 51.15 % , loss : 3.0788402557373047
+step : 63.94 % , loss : 2.9767796993255615
+step : 76.73 % , loss : 3.146770715713501
+step : 89.51 % , loss : 3.0657646656036377
+Epoch: 128
+Epoch time : 0.05963410794734955hrs
+	Train Loss: 3.023 | Train PPL:  20.562
+	Val Loss: 3.083 |  Val PPL:  21.834
+	BLEU Score: 0.094
+step : 0.0 % , loss : 2.9782345294952393
+step : 12.79 % , loss : 2.943354845046997
+step : 25.58 % , loss : 3.0467584133148193
+step : 38.36 % , loss : 3.049891948699951
+step : 51.15 % , loss : 3.0315635204315186
+step : 63.94 % , loss : 2.946046829223633
+step : 76.73 % , loss : 3.1702165603637695
+step : 89.51 % , loss : 3.0593032836914062
+Epoch: 129
+Epoch time : 0.05954873614841037hrs
+	Train Loss: 3.021 | Train PPL:  20.517
+	Val Loss: 3.078 |  Val PPL:  21.716
+	BLEU Score: 0.099
+step : 0.0 % , loss : 2.997459888458252
+step : 12.79 % , loss : 2.993351697921753
+step : 25.58 % , loss : 2.961292266845703
+step : 38.36 % , loss : 3.027900457382202
+step : 51.15 % , loss : 2.996218681335449
+step : 63.94 % , loss : 3.070807695388794
+step : 76.73 % , loss : 3.1268224716186523
+step : 89.51 % , loss : 3.1122586727142334
+Epoch: 130
+Epoch time : 0.05949253300825755hrs
+	Train Loss: 3.018 | Train PPL:  20.445
+	Val Loss: 3.091 |  Val PPL:  21.995
+	BLEU Score: 0.101
+step : 0.0 % , loss : 2.9797115325927734
+step : 12.79 % , loss : 3.2653212547302246
+step : 25.58 % , loss : 3.074613571166992
+step : 38.36 % , loss : 2.991870164871216
+step : 51.15 % , loss : 3.006586790084839
+step : 63.94 % , loss : 3.0591468811035156
+step : 76.73 % , loss : 3.0488128662109375
+step : 89.51 % , loss : 3.1288974285125732
+Epoch: 131
+Epoch time : 0.0595610961649153hrs
+	Train Loss: 3.017 | Train PPL:  20.432
+	Val Loss: 3.083 |  Val PPL:  21.830
+	BLEU Score: 0.097
+step : 0.0 % , loss : 2.80716609954834
+step : 12.79 % , loss : 3.043327569961548
+step : 25.58 % , loss : 3.0137500762939453
+step : 38.36 % , loss : 3.0059914588928223
+step : 51.15 % , loss : 3.0806610584259033
+step : 63.94 % , loss : 3.0002760887145996
+step : 76.73 % , loss : 3.0324599742889404
+step : 89.51 % , loss : 3.042497158050537
+Epoch: 132
+Epoch time : 0.05935275031460656hrs
+	Train Loss: 3.013 | Train PPL:  20.351
+	Val Loss: 3.065 |  Val PPL:  21.428
+	BLEU Score: 0.101
+step : 0.0 % , loss : 2.8025012016296387
+step : 12.79 % , loss : 2.949657917022705
+step : 25.58 % , loss : 2.851482629776001
+step : 38.36 % , loss : 3.1716833114624023
+step : 51.15 % , loss : 3.181518077850342
+step : 63.94 % , loss : 3.011270761489868
+step : 76.73 % , loss : 3.1020560264587402
+step : 89.51 % , loss : 3.1217310428619385
+Epoch: 133
+Epoch time : 0.05946096850766076hrs
+	Train Loss: 3.012 | Train PPL:  20.334
+	Val Loss: 3.074 |  Val PPL:  21.621
+	BLEU Score: 0.101
+step : 0.0 % , loss : 2.919301748275757
+step : 12.79 % , loss : 2.8395140171051025
+step : 25.58 % , loss : 2.979478120803833
+step : 38.36 % , loss : 3.1341869831085205
+step : 51.15 % , loss : 3.147329092025757
+step : 63.94 % , loss : 3.0393970012664795
+step : 76.73 % , loss : 3.0281224250793457
+step : 89.51 % , loss : 3.0887393951416016
+Epoch: 134
+Epoch time : 0.05945964985423618hrs
+	Train Loss: 3.009 | Train PPL:  20.264
+	Val Loss: 3.072 |  Val PPL:  21.596
+	BLEU Score: 0.098
+step : 0.0 % , loss : 2.9420149326324463
+step : 12.79 % , loss : 3.034841775894165
+step : 25.58 % , loss : 2.996868848800659
+step : 38.36 % , loss : 2.92429780960083
+step : 51.15 % , loss : 3.0819098949432373
+step : 63.94 % , loss : 2.9764997959136963
+step : 76.73 % , loss : 3.053734064102173
+step : 89.51 % , loss : 2.895498037338257
+Epoch: 135
+Epoch time : 0.05932204657130771hrs
+	Train Loss: 3.008 | Train PPL:  20.248
+	Val Loss: 3.063 |  Val PPL:  21.399
+	BLEU Score: 0.099
+step : 0.0 % , loss : 2.745253801345825
+step : 12.79 % , loss : 3.020291805267334
+step : 25.58 % , loss : 3.009323835372925
+step : 38.36 % , loss : 3.0429890155792236
+step : 51.15 % , loss : 2.9452855587005615
+step : 63.94 % , loss : 3.1181039810180664
+step : 76.73 % , loss : 2.925976037979126
+step : 89.51 % , loss : 3.1438889503479004
+Epoch: 136
+Epoch time : 0.05959358109368218hrs
+	Train Loss: 3.007 | Train PPL:  20.217
+	Val Loss: 3.062 |  Val PPL:  21.370
+	BLEU Score: 0.102
+step : 0.0 % , loss : 2.8958370685577393
+step : 12.79 % , loss : 3.0431525707244873
+step : 25.58 % , loss : 3.048250675201416
+step : 38.36 % , loss : 2.908669948577881
+step : 51.15 % , loss : 2.9509127140045166
+step : 63.94 % , loss : 3.026421308517456
+step : 76.73 % , loss : 3.0460314750671387
+step : 89.51 % , loss : 3.033801555633545
+Epoch: 137
+Epoch time : 0.05955808116330041hrs
+	Train Loss: 3.005 | Train PPL:  20.185
+	Val Loss: 3.067 |  Val PPL:  21.475
+	BLEU Score: 0.101
+step : 0.0 % , loss : 2.8378546237945557
+step : 12.79 % , loss : 2.8386330604553223
+step : 25.58 % , loss : 3.108407735824585
+step : 38.36 % , loss : 2.981832981109619
+step : 51.15 % , loss : 3.2109384536743164
+step : 63.94 % , loss : 3.0481531620025635
+step : 76.73 % , loss : 3.024205446243286
+step : 89.51 % , loss : 3.174429416656494
+Epoch: 138
+Epoch time : 0.05955980141957601hrs
+	Train Loss: 3.006 | Train PPL:  20.197
+	Val Loss: 3.079 |  Val PPL:  21.730
+	BLEU Score: 0.105
+step : 0.0 % , loss : 2.8541510105133057
+step : 12.79 % , loss : 3.005767345428467
+step : 25.58 % , loss : 3.1051900386810303
+step : 38.36 % , loss : 2.9767251014709473
+step : 51.15 % , loss : 3.0898966789245605
+step : 63.94 % , loss : 3.033475160598755
+step : 76.73 % , loss : 2.9731669425964355
+step : 89.51 % , loss : 2.975743532180786
+Epoch: 139
+Epoch time : 0.059448824988471136hrs
+	Train Loss: 3.003 | Train PPL:  20.141
+	Val Loss: 3.062 |  Val PPL:  21.373
+	BLEU Score: 0.102
+step : 0.0 % , loss : 3.061269760131836
+step : 12.79 % , loss : 3.0070900917053223
+step : 25.58 % , loss : 2.8755574226379395
+step : 38.36 % , loss : 2.9052846431732178
+step : 51.15 % , loss : 3.1143181324005127
+step : 63.94 % , loss : 2.980738639831543
+step : 76.73 % , loss : 2.9770960807800293
+step : 89.51 % , loss : 3.0831663608551025
+Epoch: 140
+Epoch time : 0.059547464648882546hrs
+	Train Loss: 3.002 | Train PPL:  20.130
+	Val Loss: 3.071 |  Val PPL:  21.567
+	BLEU Score: 0.099
+step : 0.0 % , loss : 2.885695219039917
+step : 12.79 % , loss : 2.9644243717193604
+step : 25.58 % , loss : 2.989989995956421
+step : 38.36 % , loss : 2.899419069290161
+step : 51.15 % , loss : 3.136974334716797
+step : 63.94 % , loss : 3.0585575103759766
+step : 76.73 % , loss : 3.114161252975464
+step : 89.51 % , loss : 3.0063564777374268
+Epoch: 141
+Epoch time : 0.059448478089438546hrs
+	Train Loss: 3.001 | Train PPL:  20.107
+	Val Loss: 3.055 |  Val PPL:  21.232
+	BLEU Score: 0.102
+step : 0.0 % , loss : 2.954064130783081
+step : 12.79 % , loss : 2.971465587615967
+step : 25.58 % , loss : 3.0632426738739014
+step : 38.36 % , loss : 3.0648512840270996
+step : 51.15 % , loss : 3.003533363342285
+step : 63.94 % , loss : 3.0374679565429688
+step : 76.73 % , loss : 3.075489044189453
+step : 89.51 % , loss : 3.108199119567871
+Epoch: 142
+Epoch time : 0.05953198638227251hrs
+	Train Loss: 2.999 | Train PPL:  20.074
+	Val Loss: 3.064 |  Val PPL:  21.404
+	BLEU Score: 0.099
+step : 0.0 % , loss : 2.8959388732910156
+step : 12.79 % , loss : 2.863107681274414
+step : 25.58 % , loss : 3.030925989151001
+step : 38.36 % , loss : 2.8870248794555664
+step : 51.15 % , loss : 2.9223713874816895
+step : 63.94 % , loss : 3.1211910247802734
+step : 76.73 % , loss : 3.1617205142974854
+step : 89.51 % , loss : 3.1969454288482666
+Epoch: 143
+Epoch time : 0.05952858242723677hrs
+	Train Loss: 2.998 | Train PPL:  20.048
+	Val Loss: 3.065 |  Val PPL:  21.430
+	BLEU Score: 0.097
+step : 0.0 % , loss : 3.000725746154785
+step : 12.79 % , loss : 2.910719156265259
+step : 25.58 % , loss : 3.1385490894317627
+step : 38.36 % , loss : 2.978389024734497
+step : 51.15 % , loss : 3.065500259399414
+step : 63.94 % , loss : 3.054656505584717
+step : 76.73 % , loss : 2.9636597633361816
+step : 89.51 % , loss : 3.0225117206573486
+Epoch: 144
+Epoch time : 0.05950009306271871hrs
+	Train Loss: 2.996 | Train PPL:  20.006
+	Val Loss: 3.067 |  Val PPL:  21.479
+	BLEU Score: 0.100
+step : 0.0 % , loss : 2.9179177284240723
+step : 12.79 % , loss : 2.9719045162200928
+step : 25.58 % , loss : 2.892479419708252
+step : 38.36 % , loss : 2.949122190475464
+step : 51.15 % , loss : 2.971015453338623
+step : 63.94 % , loss : 3.138589859008789
+step : 76.73 % , loss : 3.0266025066375732
+step : 89.51 % , loss : 2.941779136657715
+Epoch: 145
+Epoch time : 0.059628132515483434hrs
+	Train Loss: 2.996 | Train PPL:  20.007
+	Val Loss: 3.064 |  Val PPL:  21.409
+	BLEU Score: 0.104
+step : 0.0 % , loss : 2.927672863006592
+step : 12.79 % , loss : 2.992203712463379
+step : 25.58 % , loss : 3.049877882003784
+step : 38.36 % , loss : 3.0081217288970947
+step : 51.15 % , loss : 3.089583158493042
+step : 63.94 % , loss : 3.007962226867676
+step : 76.73 % , loss : 3.150113344192505
+step : 89.51 % , loss : 2.9450716972351074
+Epoch: 146
+Epoch time : 0.059538045790460375hrs
+	Train Loss: 2.994 | Train PPL:  19.975
+	Val Loss: 3.070 |  Val PPL:  21.551
+	BLEU Score: 0.099
+step : 0.0 % , loss : 2.8303513526916504
+step : 12.79 % , loss : 2.9592878818511963
+step : 25.58 % , loss : 2.8574819564819336
+step : 38.36 % , loss : 2.909363031387329
+step : 51.15 % , loss : 2.9672091007232666
+step : 63.94 % , loss : 3.030621290206909
+step : 76.73 % , loss : 2.951845645904541
+step : 89.51 % , loss : 3.155856132507324
+Epoch: 147
+Epoch time : 0.05959323790338304hrs
+	Train Loss: 2.993 | Train PPL:  19.943
+	Val Loss: 3.065 |  Val PPL:  21.436
+	BLEU Score: 0.098
+step : 0.0 % , loss : 2.8379714488983154
+step : 12.79 % , loss : 2.9663403034210205
+step : 25.58 % , loss : 3.0548911094665527
+step : 38.36 % , loss : 2.889540433883667
+step : 51.15 % , loss : 3.0495691299438477
+step : 63.94 % , loss : 3.068324327468872
+step : 76.73 % , loss : 3.0258913040161133
+step : 89.51 % , loss : 2.9524145126342773
+Epoch: 148
+Epoch time : 0.059601426985528734hrs
+	Train Loss: 2.993 | Train PPL:  19.948
+	Val Loss: 3.053 |  Val PPL:  21.182
+	BLEU Score: 0.103
+step : 0.0 % , loss : 2.8897035121917725
+step : 12.79 % , loss : 3.158919095993042
+step : 25.58 % , loss : 3.00101375579834
+step : 38.36 % , loss : 3.0015923976898193
+step : 51.15 % , loss : 3.1408603191375732
+step : 63.94 % , loss : 3.014591932296753
+step : 76.73 % , loss : 2.9496030807495117
+step : 89.51 % , loss : 3.245225667953491
+Epoch: 149
+Epoch time : 0.05938397526741028hrs
+	Train Loss: 2.993 | Train PPL:  19.948
+	Val Loss: 3.062 |  Val PPL:  21.370
+	BLEU Score: 0.108
+step : 0.0 % , loss : 2.81949782371521
+step : 12.79 % , loss : 2.8425450325012207
+step : 25.58 % , loss : 2.965034246444702
+step : 38.36 % , loss : 2.87422513961792
+step : 51.15 % , loss : 2.9972963333129883
+step : 63.94 % , loss : 3.111755609512329
+step : 76.73 % , loss : 3.0425901412963867
+step : 89.51 % , loss : 3.0596156120300293
+Epoch: 150
+Epoch time : 0.05953688032097287hrs
+	Train Loss: 2.990 | Train PPL:  19.894
+	Val Loss: 3.060 |  Val PPL:  21.327
+	BLEU Score: 0.103
+step : 0.0 % , loss : 2.910144567489624
+step : 12.79 % , loss : 2.9189257621765137
+step : 25.58 % , loss : 2.95652437210083
+step : 38.36 % , loss : 2.950751781463623
+step : 51.15 % , loss : 3.018404483795166
+step : 63.94 % , loss : 3.0989232063293457
+step : 76.73 % , loss : 3.083850860595703
+step : 89.51 % , loss : 3.0641369819641113
+Epoch: 151
+Epoch time : 0.05952283038033379hrs
+	Train Loss: 2.990 | Train PPL:  19.881
+	Val Loss: 3.057 |  Val PPL:  21.264
+	BLEU Score: 0.100
+step : 0.0 % , loss : 3.0035531520843506
+step : 12.79 % , loss : 2.9366490840911865
+step : 25.58 % , loss : 2.8931350708007812
+step : 38.36 % , loss : 3.0255017280578613
+step : 51.15 % , loss : 2.9502904415130615
+step : 63.94 % , loss : 3.1274211406707764
+step : 76.73 % , loss : 2.9835665225982666
+step : 89.51 % , loss : 3.0413382053375244
+Epoch: 152
+Epoch time : 0.059474209348360695hrs
+	Train Loss: 2.989 | Train PPL:  19.873
+	Val Loss: 3.060 |  Val PPL:  21.326
+	BLEU Score: 0.103
+step : 0.0 % , loss : 2.899177312850952
+step : 12.79 % , loss : 2.8745803833007812
+step : 25.58 % , loss : 2.9611549377441406
+step : 38.36 % , loss : 2.836310863494873
+step : 51.15 % , loss : 3.068352222442627
+step : 63.94 % , loss : 2.9526095390319824
+step : 76.73 % , loss : 3.0064988136291504
+step : 89.51 % , loss : 3.067692995071411
+Epoch: 153
+Epoch time : 0.05948972741762797hrs
+	Train Loss: 2.987 | Train PPL:  19.836
+	Val Loss: 3.070 |  Val PPL:  21.533
+	BLEU Score: 0.101
+step : 0.0 % , loss : 2.795384168624878
+step : 12.79 % , loss : 2.960789680480957
+step : 25.58 % , loss : 2.984930992126465
+step : 38.36 % , loss : 3.0293633937835693
+step : 51.15 % , loss : 3.0111939907073975
+step : 63.94 % , loss : 2.9337642192840576
+step : 76.73 % , loss : 2.988389492034912
+step : 89.51 % , loss : 2.7370831966400146
+Epoch: 154
+Epoch time : 0.059581048025025264hrs
+	Train Loss: 2.987 | Train PPL:  19.834
+	Val Loss: 3.052 |  Val PPL:  21.157
+	BLEU Score: 0.097
+step : 0.0 % , loss : 2.930088758468628
+step : 12.79 % , loss : 3.0014870166778564
+step : 25.58 % , loss : 2.872751474380493
+step : 38.36 % , loss : 2.9278411865234375
+step : 51.15 % , loss : 2.925705909729004
+step : 63.94 % , loss : 2.9617435932159424
+step : 76.73 % , loss : 3.0157809257507324
+step : 89.51 % , loss : 3.118192672729492
+Epoch: 155
+Epoch time : 0.05974113868342506hrs
+	Train Loss: 2.987 | Train PPL:  19.833
+	Val Loss: 3.055 |  Val PPL:  21.220
+	BLEU Score: 0.100
+step : 0.0 % , loss : 2.8032445907592773
+step : 12.79 % , loss : 2.94330096244812
+step : 25.58 % , loss : 3.021148681640625
+step : 38.36 % , loss : 2.970243215560913
+step : 51.15 % , loss : 2.9175291061401367
+step : 63.94 % , loss : 2.9345998764038086
+step : 76.73 % , loss : 2.9919674396514893
+step : 89.51 % , loss : 3.0837485790252686
+Epoch: 156
+Epoch time : 0.059446912871466744hrs
+	Train Loss: 2.985 | Train PPL:  19.791
+	Val Loss: 3.056 |  Val PPL:  21.250
+	BLEU Score: 0.103
+step : 0.0 % , loss : 2.880594253540039
+step : 12.79 % , loss : 2.8484232425689697
+step : 25.58 % , loss : 2.841838836669922
+step : 38.36 % , loss : 3.0050768852233887
+step : 51.15 % , loss : 2.9891183376312256
+step : 63.94 % , loss : 2.919142961502075
+step : 76.73 % , loss : 3.1271774768829346
+step : 89.51 % , loss : 3.1137094497680664
+Epoch: 157
+Epoch time : 0.059331486688719855hrs
+	Train Loss: 2.984 | Train PPL:  19.766
+	Val Loss: 3.053 |  Val PPL:  21.177
+	BLEU Score: 0.102
+step : 0.0 % , loss : 2.9138832092285156
+step : 12.79 % , loss : 2.9128854274749756
+step : 25.58 % , loss : 2.9961020946502686
+step : 38.36 % , loss : 2.933856725692749
+step : 51.15 % , loss : 2.997971534729004
+step : 63.94 % , loss : 2.9687867164611816
+step : 76.73 % , loss : 3.042018175125122
+step : 89.51 % , loss : 3.0415918827056885
+Epoch: 158
+Epoch time : 0.05938825024498834hrs
+	Train Loss: 2.983 | Train PPL:  19.756
+	Val Loss: 3.064 |  Val PPL:  21.404
+	BLEU Score: 0.102
+step : 0.0 % , loss : 2.6657397747039795
+step : 12.79 % , loss : 2.8407628536224365
+step : 25.58 % , loss : 3.005972146987915
+step : 38.36 % , loss : 3.1088075637817383
+step : 51.15 % , loss : 2.9775381088256836
+step : 63.94 % , loss : 2.9157443046569824
+step : 76.73 % , loss : 2.9680747985839844
+step : 89.51 % , loss : 2.971792221069336
+Epoch: 159
+Epoch time : 0.05940706438488431hrs
+	Train Loss: 2.983 | Train PPL:  19.746
+	Val Loss: 3.049 |  Val PPL:  21.091
+	BLEU Score: 0.108
+step : 0.0 % , loss : 2.763890266418457
+step : 12.79 % , loss : 2.7976317405700684
+step : 25.58 % , loss : 2.8632428646087646
+step : 38.36 % , loss : 2.9913008213043213
+step : 51.15 % , loss : 2.9665920734405518
+step : 63.94 % , loss : 3.146087169647217
+step : 76.73 % , loss : 3.1249217987060547
+step : 89.51 % , loss : 3.068913221359253
+Epoch: 160
+Epoch time : 0.05944431165854136hrs
+	Train Loss: 2.982 | Train PPL:  19.736
+	Val Loss: 3.046 |  Val PPL:  21.024
+	BLEU Score: 0.099
+step : 0.0 % , loss : 2.909633159637451
+step : 12.79 % , loss : 2.9567060470581055
+step : 25.58 % , loss : 2.8257970809936523
+step : 38.36 % , loss : 3.095879554748535
+step : 51.15 % , loss : 2.970247507095337
+step : 63.94 % , loss : 2.8781330585479736
+step : 76.73 % , loss : 3.065669536590576
+step : 89.51 % , loss : 2.9945006370544434
+Epoch: 161
+Epoch time : 0.05929938826296065hrs
+	Train Loss: 2.980 | Train PPL:  19.686
+	Val Loss: 3.063 |  Val PPL:  21.382
+	BLEU Score: 0.104
+step : 0.0 % , loss : 2.786677837371826
+step : 12.79 % , loss : 2.847529411315918
+step : 25.58 % , loss : 2.881676197052002
+step : 38.36 % , loss : 2.9907779693603516
+step : 51.15 % , loss : 3.0918819904327393
+step : 63.94 % , loss : 2.9314022064208984
+step : 76.73 % , loss : 3.024535894393921
+step : 89.51 % , loss : 3.0450775623321533
+Epoch: 162
+Epoch time : 0.059605412880579633hrs
+	Train Loss: 2.980 | Train PPL:  19.680
+	Val Loss: 3.057 |  Val PPL:  21.254
+	BLEU Score: 0.107
+step : 0.0 % , loss : 2.9132437705993652
+step : 12.79 % , loss : 2.876020908355713
+step : 25.58 % , loss : 2.933361291885376
+step : 38.36 % , loss : 2.9892239570617676
+step : 51.15 % , loss : 3.126988172531128
+step : 63.94 % , loss : 3.0329031944274902
+step : 76.73 % , loss : 3.052243947982788
+step : 89.51 % , loss : 3.0386171340942383
+Epoch: 163
+Epoch time : 0.059614864786465965hrs
+	Train Loss: 2.981 | Train PPL:  19.703
+	Val Loss: 3.055 |  Val PPL:  21.230
+	BLEU Score: 0.110
+step : 0.0 % , loss : 2.797417402267456
+step : 12.79 % , loss : 2.8142130374908447
+step : 25.58 % , loss : 2.886497974395752
+step : 38.36 % , loss : 2.8476264476776123
+step : 51.15 % , loss : 3.0133514404296875
+step : 63.94 % , loss : 2.8781070709228516
+step : 76.73 % , loss : 2.953680992126465
+step : 89.51 % , loss : 3.0937957763671875
+Epoch: 164
+Epoch time : 0.05957242541842991hrs
+	Train Loss: 2.978 | Train PPL:  19.658
+	Val Loss: 3.059 |  Val PPL:  21.313
+	BLEU Score: 0.101
+step : 0.0 % , loss : 2.903172731399536
+step : 12.79 % , loss : 2.963266372680664
+step : 25.58 % , loss : 2.9929144382476807
+step : 38.36 % , loss : 3.0264978408813477
+step : 51.15 % , loss : 2.9381208419799805
+step : 63.94 % , loss : 2.9836912155151367
+step : 76.73 % , loss : 3.1096560955047607
+step : 89.51 % , loss : 2.9509081840515137
+Epoch: 165
+Epoch time : 0.059466473327742686hrs
+	Train Loss: 2.978 | Train PPL:  19.647
+	Val Loss: 3.061 |  Val PPL:  21.354
+	BLEU Score: 0.107
+step : 0.0 % , loss : 2.8311498165130615
+step : 12.79 % , loss : 3.0597283840179443
+step : 25.58 % , loss : 2.9181106090545654
+step : 38.36 % , loss : 3.0047271251678467
+step : 51.15 % , loss : 3.1215271949768066
+step : 63.94 % , loss : 2.9408328533172607
+step : 76.73 % , loss : 2.962714195251465
+step : 89.51 % , loss : 3.114488124847412
+Epoch: 166
+Epoch time : 0.05947953138086531hrs
+	Train Loss: 2.976 | Train PPL:  19.604
+	Val Loss: 3.061 |  Val PPL:  21.356
+	BLEU Score: 0.103
+step : 0.0 % , loss : 2.940371513366699
+step : 12.79 % , loss : 2.7847113609313965
+step : 25.58 % , loss : 2.879744529724121
+step : 38.36 % , loss : 2.9392383098602295
+step : 51.15 % , loss : 2.9721803665161133
+step : 63.94 % , loss : 3.003199815750122
+step : 76.73 % , loss : 3.031679153442383
+step : 89.51 % , loss : 3.1469080448150635
+Epoch: 167
+Epoch time : 0.059388648536470204hrs
+	Train Loss: 2.976 | Train PPL:  19.612
+	Val Loss: 3.057 |  Val PPL:  21.263
+	BLEU Score: 0.105
+step : 0.0 % , loss : 2.7985429763793945
+step : 12.79 % , loss : 2.7593038082122803
+step : 25.58 % , loss : 3.076892375946045
+step : 38.36 % , loss : 2.9071836471557617
+step : 51.15 % , loss : 2.9050498008728027
+step : 63.94 % , loss : 3.0276432037353516
+step : 76.73 % , loss : 3.1109156608581543
+step : 89.51 % , loss : 2.9134976863861084
+Epoch: 168
+Epoch time : 0.05952096111244626hrs
+	Train Loss: 2.974 | Train PPL:  19.578
+	Val Loss: 3.049 |  Val PPL:  21.085
+	BLEU Score: 0.104
+step : 0.0 % , loss : 2.806884765625
+step : 12.79 % , loss : 2.748522996902466
+step : 25.58 % , loss : 2.7686870098114014
+step : 38.36 % , loss : 2.735095977783203
+step : 51.15 % , loss : 2.738574266433716
+step : 63.94 % , loss : 2.8152916431427
+step : 76.73 % , loss : 2.9459474086761475
+step : 89.51 % , loss : 2.8660049438476562
+Epoch: 169
+Epoch time : 0.05947496222125159hrs
+	Train Loss: 2.889 | Train PPL:  17.981
+	Val Loss: 3.020 |  Val PPL:  20.482
+	BLEU Score: 0.108
+step : 0.0 % , loss : 2.7620201110839844
+step : 12.79 % , loss : 3.0354416370391846
+step : 25.58 % , loss : 2.7956159114837646
+step : 38.36 % , loss : 2.8434078693389893
+step : 51.15 % , loss : 2.7748560905456543
+step : 63.94 % , loss : 2.824352264404297
+step : 76.73 % , loss : 2.8553521633148193
+step : 89.51 % , loss : 2.9641470909118652
+Epoch: 170
+Epoch time : 0.05966332197189331hrs
+	Train Loss: 2.877 | Train PPL:  17.758
+	Val Loss: 3.003 |  Val PPL:  20.148
+	BLEU Score: 0.110
+step : 0.0 % , loss : 2.8241820335388184
+step : 12.79 % , loss : 2.772805690765381
+step : 25.58 % , loss : 2.8205695152282715
+step : 38.36 % , loss : 2.8230106830596924
+step : 51.15 % , loss : 2.7346460819244385
+step : 63.94 % , loss : 2.806766986846924
+step : 76.73 % , loss : 2.8538715839385986
+step : 89.51 % , loss : 3.0692155361175537
+Epoch: 171
+Epoch time : 0.059477429389953616hrs
+	Train Loss: 2.875 | Train PPL:  17.724
+	Val Loss: 3.013 |  Val PPL:  20.344
+	BLEU Score: 0.111
+step : 0.0 % , loss : 2.82671856880188
+step : 12.79 % , loss : 2.857351541519165
+step : 25.58 % , loss : 2.93182635307312
+step : 38.36 % , loss : 2.8472039699554443
+step : 51.15 % , loss : 2.949662923812866
+step : 63.94 % , loss : 2.8249008655548096
+step : 76.73 % , loss : 2.9675614833831787
+step : 89.51 % , loss : 2.9734930992126465
+Epoch: 172
+Epoch time : 0.05940208037694295hrs
+	Train Loss: 2.873 | Train PPL:  17.684
+	Val Loss: 3.015 |  Val PPL:  20.380
+	BLEU Score: 0.108
+step : 0.0 % , loss : 2.9312453269958496
+step : 12.79 % , loss : 2.757544755935669
+step : 25.58 % , loss : 2.873523235321045
+step : 38.36 % , loss : 2.826295852661133
+step : 51.15 % , loss : 2.857438802719116
+step : 63.94 % , loss : 2.920790672302246
+step : 76.73 % , loss : 2.9202003479003906
+step : 89.51 % , loss : 2.9375076293945312
+Epoch: 173
+Epoch time : 0.059527882403797576hrs
+	Train Loss: 2.868 | Train PPL:  17.606
+	Val Loss: 3.018 |  Val PPL:  20.449
+	BLEU Score: 0.113
+step : 0.0 % , loss : 2.7238361835479736
+step : 12.79 % , loss : 2.854146957397461
+step : 25.58 % , loss : 2.8967456817626953
+step : 38.36 % , loss : 2.7075188159942627
+step : 51.15 % , loss : 2.8394153118133545
+step : 63.94 % , loss : 2.933931589126587
+step : 76.73 % , loss : 2.9700536727905273
+step : 89.51 % , loss : 2.8890979290008545
+Epoch: 174
+Epoch time : 0.05953633957438999hrs
+	Train Loss: 2.865 | Train PPL:  17.556
+	Val Loss: 3.013 |  Val PPL:  20.351
+	BLEU Score: 0.109
+step : 0.0 % , loss : 2.822882890701294
+step : 12.79 % , loss : 2.864525079727173
+step : 25.58 % , loss : 2.8037352561950684
+step : 38.36 % , loss : 2.835087537765503
+step : 51.15 % , loss : 2.814668893814087
+step : 63.94 % , loss : 2.8772897720336914
+step : 76.73 % , loss : 2.9450433254241943
+step : 89.51 % , loss : 2.852628231048584
+Epoch: 175
+Epoch time : 0.05940087669425541hrs
+	Train Loss: 2.864 | Train PPL:  17.538
+	Val Loss: 3.025 |  Val PPL:  20.590
+	BLEU Score: 0.104
+step : 0.0 % , loss : 2.828303813934326
+step : 12.79 % , loss : 2.8572869300842285
+step : 25.58 % , loss : 2.8260364532470703
+step : 38.36 % , loss : 2.8869690895080566
+step : 51.15 % , loss : 2.9282827377319336
+step : 63.94 % , loss : 2.7507236003875732
+step : 76.73 % , loss : 2.8872439861297607
+step : 89.51 % , loss : 2.886375904083252
+Epoch: 176
+Epoch time : 0.05942960838476817hrs
+	Train Loss: 2.862 | Train PPL:  17.493
+	Val Loss: 3.011 |  Val PPL:  20.302
+	BLEU Score: 0.117
+step : 0.0 % , loss : 2.8326632976531982
+step : 12.79 % , loss : 2.8483405113220215
+step : 25.58 % , loss : 2.6956114768981934
+step : 38.36 % , loss : 2.8284108638763428
+step : 51.15 % , loss : 2.9458281993865967
+step : 63.94 % , loss : 2.906729221343994
+step : 76.73 % , loss : 2.9729466438293457
+step : 89.51 % , loss : 2.8663997650146484
+Epoch: 177
+Epoch time : 0.059567520287301806hrs
+	Train Loss: 2.861 | Train PPL:  17.476
+	Val Loss: 3.002 |  Val PPL:  20.122
+	BLEU Score: 0.115
+step : 0.0 % , loss : 2.679797410964966
+step : 12.79 % , loss : 2.8346805572509766
+step : 25.58 % , loss : 2.6339964866638184
+step : 38.36 % , loss : 2.8766086101531982
+step : 51.15 % , loss : 2.878594160079956
+step : 63.94 % , loss : 3.019679069519043
+step : 76.73 % , loss : 2.905524969100952
+step : 89.51 % , loss : 3.0609798431396484
+Epoch: 178
+Epoch time : 0.05947626617219713hrs
+	Train Loss: 2.859 | Train PPL:  17.443
+	Val Loss: 3.021 |  Val PPL:  20.505
+	BLEU Score: 0.110
+step : 0.0 % , loss : 2.6752126216888428
+step : 12.79 % , loss : 2.940875291824341
+step : 25.58 % , loss : 2.8511006832122803
+step : 38.36 % , loss : 2.840174436569214
+step : 51.15 % , loss : 2.8788604736328125
+step : 63.94 % , loss : 2.817044973373413
+step : 76.73 % , loss : 3.0115270614624023
+step : 89.51 % , loss : 2.846588373184204
+Epoch: 179
+Epoch time : 0.05936266210344102hrs
+	Train Loss: 2.858 | Train PPL:  17.418
+	Val Loss: 3.018 |  Val PPL:  20.444
+	BLEU Score: 0.112
+step : 0.0 % , loss : 2.703174352645874
+step : 12.79 % , loss : 2.829697370529175
+step : 25.58 % , loss : 2.942955493927002
+step : 38.36 % , loss : 2.7566609382629395
+step : 51.15 % , loss : 2.811819553375244
+step : 63.94 % , loss : 2.971449613571167
+step : 76.73 % , loss : 2.8407442569732666
+step : 89.51 % , loss : 3.035557270050049
+Epoch: 180
+Epoch time : 0.0595449505911933hrs
+	Train Loss: 2.855 | Train PPL:  17.383
+	Val Loss: 3.012 |  Val PPL:  20.336
+	BLEU Score: 0.111
+step : 0.0 % , loss : 2.776813507080078
+step : 12.79 % , loss : 2.7835540771484375
+step : 25.58 % , loss : 2.9470508098602295
+step : 38.36 % , loss : 2.7569375038146973
+step : 51.15 % , loss : 3.0182158946990967
+step : 63.94 % , loss : 2.8392677307128906
+step : 76.73 % , loss : 2.9430315494537354
+step : 89.51 % , loss : 3.048788070678711
+Epoch: 181
+Epoch time : 0.059522695144017534hrs
+	Train Loss: 2.854 | Train PPL:  17.365
+	Val Loss: 3.018 |  Val PPL:  20.457
+	BLEU Score: 0.112
+step : 0.0 % , loss : 2.840883493423462
+step : 12.79 % , loss : 2.7867698669433594
+step : 25.58 % , loss : 2.8495922088623047
+step : 38.36 % , loss : 3.005371332168579
+step : 51.15 % , loss : 2.953648328781128
+step : 63.94 % , loss : 2.678309679031372
+step : 76.73 % , loss : 2.8994858264923096
+step : 89.51 % , loss : 3.0060293674468994
+Epoch: 182
+Epoch time : 0.05942848338021173hrs
+	Train Loss: 2.854 | Train PPL:  17.352
+	Val Loss: 3.019 |  Val PPL:  20.479
+	BLEU Score: 0.114
+step : 0.0 % , loss : 2.815277099609375
+step : 12.79 % , loss : 2.787025213241577
+step : 25.58 % , loss : 2.688822031021118
+step : 38.36 % , loss : 2.7613391876220703
+step : 51.15 % , loss : 2.856363296508789
+step : 63.94 % , loss : 2.9268569946289062
+step : 76.73 % , loss : 2.9243223667144775
+step : 89.51 % , loss : 2.7718026638031006
+Epoch: 183
+Epoch time : 0.05934747437636057hrs
+	Train Loss: 2.854 | Train PPL:  17.351
+	Val Loss: 3.013 |  Val PPL:  20.341
+	BLEU Score: 0.111
+step : 0.0 % , loss : 2.736163854598999
+step : 12.79 % , loss : 2.648920774459839
+step : 25.58 % , loss : 2.9574544429779053
+step : 38.36 % , loss : 2.706515073776245
+step : 51.15 % , loss : 2.874983072280884
+step : 63.94 % , loss : 2.7494711875915527
+step : 76.73 % , loss : 2.8758656978607178
+step : 89.51 % , loss : 2.7473831176757812
+Epoch: 184
+Epoch time : 0.05939751035637326hrs
+	Train Loss: 2.851 | Train PPL:  17.305
+	Val Loss: 3.015 |  Val PPL:  20.381
+	BLEU Score: 0.110
+step : 0.0 % , loss : 2.7604856491088867
+step : 12.79 % , loss : 2.7750885486602783
+step : 25.58 % , loss : 2.8327674865722656
+step : 38.36 % , loss : 2.9043684005737305
+step : 51.15 % , loss : 2.877448797225952
+step : 63.94 % , loss : 2.847118854522705
+step : 76.73 % , loss : 2.97971248626709
+step : 89.51 % , loss : 2.8502070903778076
+Epoch: 185
+Epoch time : 0.059379227095180086hrs
+	Train Loss: 2.851 | Train PPL:  17.312
+	Val Loss: 3.021 |  Val PPL:  20.519
+	BLEU Score: 0.107
+step : 0.0 % , loss : 2.6560308933258057
+step : 12.79 % , loss : 2.7041568756103516
+step : 25.58 % , loss : 2.7230186462402344
+step : 38.36 % , loss : 2.805619239807129
+step : 51.15 % , loss : 2.844634532928467
+step : 63.94 % , loss : 2.86470890045166
+step : 76.73 % , loss : 2.750023365020752
+step : 89.51 % , loss : 2.737030506134033
+Epoch: 186
+Epoch time : 0.059389586779806346hrs
+	Train Loss: 2.787 | Train PPL:  16.234
+	Val Loss: 2.990 |  Val PPL:  19.876
+	BLEU Score: 0.113
+step : 0.0 % , loss : 2.7303824424743652
+step : 12.79 % , loss : 2.7450921535491943
+step : 25.58 % , loss : 2.8017866611480713
+step : 38.36 % , loss : 2.720954656600952
+step : 51.15 % , loss : 2.7789881229400635
+step : 63.94 % , loss : 2.6634979248046875
+step : 76.73 % , loss : 2.8060929775238037
+step : 89.51 % , loss : 2.8773410320281982
+Epoch: 187
+Epoch time : 0.05951540774769253hrs
+	Train Loss: 2.777 | Train PPL:  16.065
+	Val Loss: 2.990 |  Val PPL:  19.893
+	BLEU Score: 0.111
+step : 0.0 % , loss : 2.673112392425537
+step : 12.79 % , loss : 2.6933791637420654
+step : 25.58 % , loss : 2.702463388442993
+step : 38.36 % , loss : 2.7578535079956055
+step : 51.15 % , loss : 2.8228461742401123
+step : 63.94 % , loss : 2.641357183456421
+step : 76.73 % , loss : 2.700841188430786
+step : 89.51 % , loss : 2.806037664413452
+Epoch: 188
+Epoch time : 0.05952421983083089hrs
+	Train Loss: 2.775 | Train PPL:  16.032
+	Val Loss: 2.993 |  Val PPL:  19.945
+	BLEU Score: 0.112
+step : 0.0 % , loss : 2.83451771736145
+step : 12.79 % , loss : 2.757722854614258
+step : 25.58 % , loss : 2.8390591144561768
+step : 38.36 % , loss : 2.6810240745544434
+step : 51.15 % , loss : 2.8912203311920166
+step : 63.94 % , loss : 2.90905499458313
+step : 76.73 % , loss : 2.8559088706970215
+step : 89.51 % , loss : 2.725844621658325
+Epoch: 189
+Epoch time : 0.05951620943016476hrs
+	Train Loss: 2.774 | Train PPL:  16.020
+	Val Loss: 2.986 |  Val PPL:  19.814
+	BLEU Score: 0.113
+step : 0.0 % , loss : 2.667289972305298
+step : 12.79 % , loss : 2.788041353225708
+step : 25.58 % , loss : 2.8084938526153564
+step : 38.36 % , loss : 2.6759767532348633
+step : 51.15 % , loss : 2.8672685623168945
+step : 63.94 % , loss : 2.7350893020629883
+step : 76.73 % , loss : 2.855905532836914
+step : 89.51 % , loss : 2.8236613273620605
+Epoch: 190
+Epoch time : 0.05960539254877303hrs
+	Train Loss: 2.773 | Train PPL:  15.999
+	Val Loss: 2.986 |  Val PPL:  19.797
+	BLEU Score: 0.115
+step : 0.0 % , loss : 2.6427459716796875
+step : 12.79 % , loss : 2.7144501209259033
+step : 25.58 % , loss : 2.76731276512146
+step : 38.36 % , loss : 2.7715556621551514
+step : 51.15 % , loss : 2.7052371501922607
+step : 63.94 % , loss : 2.7325594425201416
+step : 76.73 % , loss : 2.6733407974243164
+step : 89.51 % , loss : 2.7129244804382324
+Epoch: 191
+Epoch time : 0.05936069932248857hrs
+	Train Loss: 2.770 | Train PPL:  15.955
+	Val Loss: 3.005 |  Val PPL:  20.192
+	BLEU Score: 0.115
+step : 0.0 % , loss : 2.6689820289611816
+step : 12.79 % , loss : 2.7752084732055664
+step : 25.58 % , loss : 2.8521764278411865
+step : 38.36 % , loss : 2.742194175720215
+step : 51.15 % , loss : 2.7722063064575195
+step : 63.94 % , loss : 2.8270103931427
+step : 76.73 % , loss : 2.811145782470703
+step : 89.51 % , loss : 2.8434224128723145
+Epoch: 192
+Epoch time : 0.05935436414347755hrs
+	Train Loss: 2.769 | Train PPL:  15.945
+	Val Loss: 2.995 |  Val PPL:  19.980
+	BLEU Score: 0.114
+step : 0.0 % , loss : 2.7004542350769043
+step : 12.79 % , loss : 2.6550025939941406
+step : 25.58 % , loss : 2.7011406421661377
+step : 38.36 % , loss : 2.728384494781494
+step : 51.15 % , loss : 2.7569773197174072
+step : 63.94 % , loss : 2.910492420196533
+step : 76.73 % , loss : 2.8088040351867676
+step : 89.51 % , loss : 2.785182476043701
+Epoch: 193
+Epoch time : 0.05928705659177568hrs
+	Train Loss: 2.767 | Train PPL:  15.910
+	Val Loss: 2.995 |  Val PPL:  19.989
+	BLEU Score: 0.112
+step : 0.0 % , loss : 2.624696969985962
+step : 12.79 % , loss : 2.7966463565826416
+step : 25.58 % , loss : 2.823549270629883
+step : 38.36 % , loss : 2.68643856048584
+step : 51.15 % , loss : 2.8097829818725586
+step : 63.94 % , loss : 2.837082862854004
+step : 76.73 % , loss : 2.7959556579589844
+step : 89.51 % , loss : 2.8810789585113525
+Epoch: 194
+Epoch time : 0.05955402844481998hrs
+	Train Loss: 2.767 | Train PPL:  15.917
+	Val Loss: 3.007 |  Val PPL:  20.217
+	BLEU Score: 0.115
+step : 0.0 % , loss : 2.7446584701538086
+step : 12.79 % , loss : 2.7314529418945312
+step : 25.58 % , loss : 2.680574893951416
+step : 38.36 % , loss : 2.727332592010498
+step : 51.15 % , loss : 2.7557408809661865
+step : 63.94 % , loss : 2.65714955329895
+step : 76.73 % , loss : 2.7264771461486816
+step : 89.51 % , loss : 2.712949752807617
+Epoch: 195
+Epoch time : 0.05951800458961063hrs
+	Train Loss: 2.765 | Train PPL:  15.885
+	Val Loss: 3.004 |  Val PPL:  20.165
+	BLEU Score: 0.113
+step : 0.0 % , loss : 2.678427219390869
+step : 12.79 % , loss : 2.716780424118042
+step : 25.58 % , loss : 2.752382516860962
+step : 38.36 % , loss : 2.6675143241882324
+step : 51.15 % , loss : 2.79836106300354
+step : 63.94 % , loss : 2.7935800552368164
+step : 76.73 % , loss : 2.859027147293091
+step : 89.51 % , loss : 2.696136951446533
+Epoch: 196
+Epoch time : 0.059262469079759385hrs
+	Train Loss: 2.764 | Train PPL:  15.858
+	Val Loss: 2.999 |  Val PPL:  20.069
+	BLEU Score: 0.118
+step : 0.0 % , loss : 2.6890151500701904
+step : 12.79 % , loss : 2.676974296569824
+step : 25.58 % , loss : 2.8215548992156982
+step : 38.36 % , loss : 2.7066664695739746
+step : 51.15 % , loss : 2.769801378250122
+step : 63.94 % , loss : 2.694634199142456
+step : 76.73 % , loss : 2.78320574760437
+step : 89.51 % , loss : 2.802398204803467
+Epoch: 197
+Epoch time : 0.05918973882993062hrs
+	Train Loss: 2.763 | Train PPL:  15.855
+	Val Loss: 3.014 |  Val PPL:  20.370
+	BLEU Score: 0.112
+step : 0.0 % , loss : 2.781381368637085
+step : 12.79 % , loss : 2.743039846420288
+step : 25.58 % , loss : 2.786764621734619
+step : 38.36 % , loss : 2.668297290802002
+step : 51.15 % , loss : 2.710672616958618
+step : 63.94 % , loss : 2.714104413986206
+step : 76.73 % , loss : 2.66403865814209
+step : 89.51 % , loss : 2.7054340839385986
+Epoch: 198
+Epoch time : 0.059535695910453795hrs
+	Train Loss: 2.763 | Train PPL:  15.844
+	Val Loss: 3.012 |  Val PPL:  20.328
+	BLEU Score: 0.109
+step : 0.0 % , loss : 2.744622230529785
+step : 12.79 % , loss : 2.7542333602905273
+step : 25.58 % , loss : 2.729275703430176
+step : 38.36 % , loss : 2.685547113418579
+step : 51.15 % , loss : 2.653688669204712
+step : 63.94 % , loss : 2.7093498706817627
+step : 76.73 % , loss : 2.7083210945129395
+step : 89.51 % , loss : 2.8364596366882324
+Epoch: 199
+Epoch time : 0.05964859194225735hrs
+	Train Loss: 2.718 | Train PPL:  15.154
+	Val Loss: 2.986 |  Val PPL:  19.809
+	BLEU Score: 0.114
+step : 0.0 % , loss : 2.6250975131988525
+step : 12.79 % , loss : 2.7905468940734863
+step : 25.58 % , loss : 2.7184805870056152
+step : 38.36 % , loss : 2.528287172317505
+step : 51.15 % , loss : 2.572033166885376
+step : 63.94 % , loss : 2.8689589500427246
+step : 76.73 % , loss : 2.6421563625335693
+step : 89.51 % , loss : 2.694270133972168
+Epoch: 200
+Epoch time : 0.05929516043927934hrs
+	Train Loss: 2.709 | Train PPL:  15.013
+	Val Loss: 2.997 |  Val PPL:  20.035
+	BLEU Score: 0.116
+step : 0.0 % , loss : 2.6939167976379395
+step : 12.79 % , loss : 2.669198751449585
+step : 25.58 % , loss : 2.6429543495178223
+step : 38.36 % , loss : 2.652121067047119
+step : 51.15 % , loss : 2.721010208129883
+step : 63.94 % , loss : 2.646207332611084
+step : 76.73 % , loss : 2.6729512214660645
+step : 89.51 % , loss : 2.7509427070617676
+Epoch: 201
+Epoch time : 0.05935974174075657hrs
+	Train Loss: 2.709 | Train PPL:  15.009
+	Val Loss: 3.003 |  Val PPL:  20.153
+	BLEU Score: 0.112
+step : 0.0 % , loss : 2.6826157569885254
+step : 12.79 % , loss : 2.6061851978302
+step : 25.58 % , loss : 2.7229669094085693
+step : 38.36 % , loss : 2.7207846641540527
+step : 51.15 % , loss : 2.7162704467773438
+step : 63.94 % , loss : 2.6895296573638916
+step : 76.73 % , loss : 2.6210649013519287
+step : 89.51 % , loss : 2.6277925968170166
+Epoch: 202
+Epoch time : 0.05929099692238702hrs
+	Train Loss: 2.707 | Train PPL:  14.984
+	Val Loss: 2.999 |  Val PPL:  20.065
+	BLEU Score: 0.113
+step : 0.0 % , loss : 2.6976966857910156
+step : 12.79 % , loss : 2.6138577461242676
+step : 25.58 % , loss : 2.695077896118164
+step : 38.36 % , loss : 2.8327746391296387
+step : 51.15 % , loss : 2.838878631591797
+step : 63.94 % , loss : 2.5521552562713623
+step : 76.73 % , loss : 2.677902936935425
+step : 89.51 % , loss : 2.721831798553467
+Epoch: 203
+Epoch time : 0.05928084949652354hrs
+	Train Loss: 2.706 | Train PPL:  14.972
+	Val Loss: 2.996 |  Val PPL:  19.999
+	BLEU Score: 0.118
+step : 0.0 % , loss : 2.656558036804199
+step : 12.79 % , loss : 2.8716466426849365
+step : 25.58 % , loss : 2.763395071029663
+step : 38.36 % , loss : 2.727585792541504
+step : 51.15 % , loss : 2.7922732830047607
+step : 63.94 % , loss : 2.541679620742798
+step : 76.73 % , loss : 2.753791332244873
+step : 89.51 % , loss : 2.633610248565674
+Epoch: 204
+Epoch time : 0.05921953909926944hrs
+	Train Loss: 2.704 | Train PPL:  14.938
+	Val Loss: 3.002 |  Val PPL:  20.117
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.6622328758239746
+step : 12.79 % , loss : 2.652758836746216
+step : 25.58 % , loss : 2.4697372913360596
+step : 38.36 % , loss : 2.6403298377990723
+step : 51.15 % , loss : 2.8399295806884766
+step : 63.94 % , loss : 2.7584123611450195
+step : 76.73 % , loss : 2.8407061100006104
+step : 89.51 % , loss : 2.746037006378174
+Epoch: 205
+Epoch time : 0.05931286652882894hrs
+	Train Loss: 2.703 | Train PPL:  14.924
+	Val Loss: 3.003 |  Val PPL:  20.139
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.6802217960357666
+step : 12.79 % , loss : 2.6883692741394043
+step : 25.58 % , loss : 2.6001393795013428
+step : 38.36 % , loss : 2.712353467941284
+step : 51.15 % , loss : 2.70743465423584
+step : 63.94 % , loss : 2.852085828781128
+step : 76.73 % , loss : 2.773751735687256
+step : 89.51 % , loss : 2.580655336380005
+Epoch: 206
+Epoch time : 0.05935688859886593hrs
+	Train Loss: 2.704 | Train PPL:  14.939
+	Val Loss: 3.001 |  Val PPL:  20.111
+	BLEU Score: 0.115
+step : 0.0 % , loss : 2.5701467990875244
+step : 12.79 % , loss : 2.612037181854248
+step : 25.58 % , loss : 2.6487863063812256
+step : 38.36 % , loss : 2.689558267593384
+step : 51.15 % , loss : 2.6308367252349854
+step : 63.94 % , loss : 2.5601420402526855
+step : 76.73 % , loss : 2.75266170501709
+step : 89.51 % , loss : 2.712266445159912
+Epoch: 207
+Epoch time : 0.059371739625930786hrs
+	Train Loss: 2.672 | Train PPL:  14.464
+	Val Loss: 2.992 |  Val PPL:  19.926
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.550623893737793
+step : 12.79 % , loss : 2.6765146255493164
+step : 25.58 % , loss : 2.6462199687957764
+step : 38.36 % , loss : 2.597017288208008
+step : 51.15 % , loss : 2.753030300140381
+step : 63.94 % , loss : 2.742644786834717
+step : 76.73 % , loss : 2.6766915321350098
+step : 89.51 % , loss : 2.7325944900512695
+Epoch: 208
+Epoch time : 0.05941807534959581hrs
+	Train Loss: 2.666 | Train PPL:  14.385
+	Val Loss: 2.991 |  Val PPL:  19.905
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.5438032150268555
+step : 12.79 % , loss : 2.747239112854004
+step : 25.58 % , loss : 2.6226327419281006
+step : 38.36 % , loss : 2.6631035804748535
+step : 51.15 % , loss : 2.646756887435913
+step : 63.94 % , loss : 2.6436617374420166
+step : 76.73 % , loss : 2.696320056915283
+step : 89.51 % , loss : 2.5467772483825684
+Epoch: 209
+Epoch time : 0.05939260085423787hrs
+	Train Loss: 2.665 | Train PPL:  14.370
+	Val Loss: 2.999 |  Val PPL:  20.060
+	BLEU Score: 0.116
+step : 0.0 % , loss : 2.6675620079040527
+step : 12.79 % , loss : 2.658831834793091
+step : 25.58 % , loss : 2.627936840057373
+step : 38.36 % , loss : 2.7174878120422363
+step : 51.15 % , loss : 2.7154266834259033
+step : 63.94 % , loss : 2.4837005138397217
+step : 76.73 % , loss : 2.557548999786377
+step : 89.51 % , loss : 2.673694610595703
+Epoch: 210
+Epoch time : 0.0594508460495207hrs
+	Train Loss: 2.664 | Train PPL:  14.354
+	Val Loss: 3.001 |  Val PPL:  20.111
+	BLEU Score: 0.114
+step : 0.0 % , loss : 2.7072219848632812
+step : 12.79 % , loss : 2.674408435821533
+step : 25.58 % , loss : 2.7023003101348877
+step : 38.36 % , loss : 2.5963590145111084
+step : 51.15 % , loss : 2.6248929500579834
+step : 63.94 % , loss : 2.630641460418701
+step : 76.73 % , loss : 2.8086440563201904
+step : 89.51 % , loss : 2.6128885746002197
+Epoch: 211
+Epoch time : 0.059298415713840064hrs
+	Train Loss: 2.662 | Train PPL:  14.320
+	Val Loss: 3.007 |  Val PPL:  20.230
+	BLEU Score: 0.118
+step : 0.0 % , loss : 2.6195218563079834
+step : 12.79 % , loss : 2.6778061389923096
+step : 25.58 % , loss : 2.487635850906372
+step : 38.36 % , loss : 2.773350715637207
+step : 51.15 % , loss : 2.605522871017456
+step : 63.94 % , loss : 2.666560411453247
+step : 76.73 % , loss : 2.677340030670166
+step : 89.51 % , loss : 2.6692938804626465
+Epoch: 212
+Epoch time : 0.059298975268999736hrs
+	Train Loss: 2.661 | Train PPL:  14.318
+	Val Loss: 3.005 |  Val PPL:  20.181
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.562556505203247
+step : 12.79 % , loss : 2.634490489959717
+step : 25.58 % , loss : 2.589141845703125
+step : 38.36 % , loss : 2.60978364944458
+step : 51.15 % , loss : 2.7688140869140625
+step : 63.94 % , loss : 2.527968645095825
+step : 76.73 % , loss : 2.694136142730713
+step : 89.51 % , loss : 2.705815553665161
+Epoch: 213
+Epoch time : 0.059283905492888554hrs
+	Train Loss: 2.662 | Train PPL:  14.318
+	Val Loss: 3.005 |  Val PPL:  20.186
+	BLEU Score: 0.117
+step : 0.0 % , loss : 2.5125885009765625
+step : 12.79 % , loss : 2.602884292602539
+step : 25.58 % , loss : 2.728020191192627
+step : 38.36 % , loss : 2.7329158782958984
+step : 51.15 % , loss : 2.7381207942962646
+step : 63.94 % , loss : 2.700904130935669
+step : 76.73 % , loss : 2.647993803024292
+step : 89.51 % , loss : 2.6185574531555176
+Epoch: 214
+Epoch time : 0.05920579579141405hrs
+	Train Loss: 2.660 | Train PPL:  14.303
+	Val Loss: 3.011 |  Val PPL:  20.298
+	BLEU Score: 0.121
+step : 0.0 % , loss : 2.3973093032836914
+step : 12.79 % , loss : 2.6581180095672607
+step : 25.58 % , loss : 2.5696449279785156
+step : 38.36 % , loss : 2.676100015640259
+step : 51.15 % , loss : 2.6704137325286865
+step : 63.94 % , loss : 2.6086747646331787
+step : 76.73 % , loss : 2.791306257247925
+step : 89.51 % , loss : 2.787869930267334
+Epoch: 215
+Epoch time : 0.059422205289204916hrs
+	Train Loss: 2.639 | Train PPL:  14.006
+	Val Loss: 3.010 |  Val PPL:  20.287
+	BLEU Score: 0.118
+step : 0.0 % , loss : 2.6525814533233643
+step : 12.79 % , loss : 2.632002115249634
+step : 25.58 % , loss : 2.5664360523223877
+step : 38.36 % , loss : 2.5764999389648438
+step : 51.15 % , loss : 2.588904857635498
+step : 63.94 % , loss : 2.6902318000793457
+step : 76.73 % , loss : 2.561633825302124
+step : 89.51 % , loss : 2.706348180770874
+Epoch: 216
+Epoch time : 0.05946302162276374hrs
+	Train Loss: 2.637 | Train PPL:  13.967
+	Val Loss: 3.000 |  Val PPL:  20.080
+	BLEU Score: 0.117
+step : 0.0 % , loss : 2.6222848892211914
+step : 12.79 % , loss : 2.5166735649108887
+step : 25.58 % , loss : 2.702643632888794
+step : 38.36 % , loss : 2.6220903396606445
+step : 51.15 % , loss : 2.555388927459717
+step : 63.94 % , loss : 2.516463279724121
+step : 76.73 % , loss : 2.6291377544403076
+step : 89.51 % , loss : 2.711392402648926
+Epoch: 217
+Epoch time : 0.05958539300494724hrs
+	Train Loss: 2.634 | Train PPL:  13.935
+	Val Loss: 3.013 |  Val PPL:  20.354
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.6008880138397217
+step : 12.79 % , loss : 2.7043204307556152
+step : 25.58 % , loss : 2.636518716812134
+step : 38.36 % , loss : 2.691347122192383
+step : 51.15 % , loss : 2.5484328269958496
+step : 63.94 % , loss : 2.6230368614196777
+step : 76.73 % , loss : 2.607330799102783
+step : 89.51 % , loss : 2.717665672302246
+Epoch: 218
+Epoch time : 0.05938790453804864hrs
+	Train Loss: 2.634 | Train PPL:  13.932
+	Val Loss: 3.003 |  Val PPL:  20.142
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.623619556427002
+step : 12.79 % , loss : 2.6358683109283447
+step : 25.58 % , loss : 2.474559783935547
+step : 38.36 % , loss : 2.6321659088134766
+step : 51.15 % , loss : 2.67948579788208
+step : 63.94 % , loss : 2.5978660583496094
+step : 76.73 % , loss : 2.5752036571502686
+step : 89.51 % , loss : 2.601255416870117
+Epoch: 219
+Epoch time : 0.05932617346445719hrs
+	Train Loss: 2.632 | Train PPL:  13.908
+	Val Loss: 3.008 |  Val PPL:  20.247
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.6100094318389893
+step : 12.79 % , loss : 2.569554328918457
+step : 25.58 % , loss : 2.710064649581909
+step : 38.36 % , loss : 2.702604055404663
+step : 51.15 % , loss : 2.591392755508423
+step : 63.94 % , loss : 2.6108086109161377
+step : 76.73 % , loss : 2.6280853748321533
+step : 89.51 % , loss : 2.6363325119018555
+Epoch: 220
+Epoch time : 0.05924706478913625hrs
+	Train Loss: 2.632 | Train PPL:  13.900
+	Val Loss: 3.015 |  Val PPL:  20.389
+	BLEU Score: 0.117
+step : 0.0 % , loss : 2.67313814163208
+step : 12.79 % , loss : 2.6224637031555176
+step : 25.58 % , loss : 2.660964250564575
+step : 38.36 % , loss : 2.5570430755615234
+step : 51.15 % , loss : 2.6079301834106445
+step : 63.94 % , loss : 2.5452821254730225
+step : 76.73 % , loss : 2.6398730278015137
+step : 89.51 % , loss : 2.694983720779419
+Epoch: 221
+Epoch time : 0.059295201632711625hrs
+	Train Loss: 2.631 | Train PPL:  13.882
+	Val Loss: 3.019 |  Val PPL:  20.478
+	BLEU Score: 0.115
+step : 0.0 % , loss : 2.5537631511688232
+step : 12.79 % , loss : 2.6141951084136963
+step : 25.58 % , loss : 2.661638021469116
+step : 38.36 % , loss : 2.6753971576690674
+step : 51.15 % , loss : 2.510327100753784
+step : 63.94 % , loss : 2.4552786350250244
+step : 76.73 % , loss : 2.679503917694092
+step : 89.51 % , loss : 2.606682300567627
+Epoch: 222
+Epoch time : 0.05939321842458513hrs
+	Train Loss: 2.632 | Train PPL:  13.897
+	Val Loss: 3.012 |  Val PPL:  20.334
+	BLEU Score: 0.116
+step : 0.0 % , loss : 2.574662685394287
+step : 12.79 % , loss : 2.582007884979248
+step : 25.58 % , loss : 2.5663764476776123
+step : 38.36 % , loss : 2.6050333976745605
+step : 51.15 % , loss : 2.6195826530456543
+step : 63.94 % , loss : 2.7560439109802246
+step : 76.73 % , loss : 2.6211516857147217
+step : 89.51 % , loss : 2.7041513919830322
+Epoch: 223
+Epoch time : 0.05928953422440423hrs
+	Train Loss: 2.619 | Train PPL:  13.717
+	Val Loss: 3.017 |  Val PPL:  20.423
+	BLEU Score: 0.118
+step : 0.0 % , loss : 2.6369800567626953
+step : 12.79 % , loss : 2.675182342529297
+step : 25.58 % , loss : 2.577118396759033
+step : 38.36 % , loss : 2.608370065689087
+step : 51.15 % , loss : 2.597350835800171
+step : 63.94 % , loss : 2.5987021923065186
+step : 76.73 % , loss : 2.5765788555145264
+step : 89.51 % , loss : 2.6862995624542236
+Epoch: 224
+Epoch time : 0.05931578324900733hrs
+	Train Loss: 2.616 | Train PPL:  13.686
+	Val Loss: 3.014 |  Val PPL:  20.368
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.6093099117279053
+step : 12.79 % , loss : 2.565748929977417
+step : 25.58 % , loss : 2.614675283432007
+step : 38.36 % , loss : 2.694004774093628
+step : 51.15 % , loss : 2.5719127655029297
+step : 63.94 % , loss : 2.63791561126709
+step : 76.73 % , loss : 2.636106491088867
+step : 89.51 % , loss : 2.632258415222168
+Epoch: 225
+Epoch time : 0.059445710712009006hrs
+	Train Loss: 2.616 | Train PPL:  13.684
+	Val Loss: 3.013 |  Val PPL:  20.342
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.5993382930755615
+step : 12.79 % , loss : 2.697418689727783
+step : 25.58 % , loss : 2.6570920944213867
+step : 38.36 % , loss : 2.6080338954925537
+step : 51.15 % , loss : 2.7550411224365234
+step : 63.94 % , loss : 2.6626267433166504
+step : 76.73 % , loss : 2.5812602043151855
+step : 89.51 % , loss : 2.6917660236358643
+Epoch: 226
+Epoch time : 0.05926903830634223hrs
+	Train Loss: 2.614 | Train PPL:  13.656
+	Val Loss: 3.015 |  Val PPL:  20.390
+	BLEU Score: 0.115
+step : 0.0 % , loss : 2.6471915245056152
+step : 12.79 % , loss : 2.6028826236724854
+step : 25.58 % , loss : 2.4867403507232666
+step : 38.36 % , loss : 2.554145574569702
+step : 51.15 % , loss : 2.569221258163452
+step : 63.94 % , loss : 2.6260297298431396
+step : 76.73 % , loss : 2.6486334800720215
+step : 89.51 % , loss : 2.5748355388641357
+Epoch: 227
+Epoch time : 0.05918581651316749hrs
+	Train Loss: 2.614 | Train PPL:  13.659
+	Val Loss: 3.021 |  Val PPL:  20.518
+	BLEU Score: 0.116
+step : 0.0 % , loss : 2.531080722808838
+step : 12.79 % , loss : 2.6056766510009766
+step : 25.58 % , loss : 2.6100804805755615
+step : 38.36 % , loss : 2.6384310722351074
+step : 51.15 % , loss : 2.5372164249420166
+step : 63.94 % , loss : 2.7044973373413086
+step : 76.73 % , loss : 2.7507688999176025
+step : 89.51 % , loss : 2.6331803798675537
+Epoch: 228
+Epoch time : 0.05915783272849189hrs
+	Train Loss: 2.613 | Train PPL:  13.634
+	Val Loss: 3.023 |  Val PPL:  20.555
+	BLEU Score: 0.115
+step : 0.0 % , loss : 2.541210651397705
+step : 12.79 % , loss : 2.593066453933716
+step : 25.58 % , loss : 2.560006856918335
+step : 38.36 % , loss : 2.6418957710266113
+step : 51.15 % , loss : 2.608064651489258
+step : 63.94 % , loss : 2.560222864151001
+step : 76.73 % , loss : 2.7390005588531494
+step : 89.51 % , loss : 2.6017861366271973
+Epoch: 229
+Epoch time : 0.05926082505120171hrs
+	Train Loss: 2.613 | Train PPL:  13.640
+	Val Loss: 3.018 |  Val PPL:  20.456
+	BLEU Score: 0.117
+step : 0.0 % , loss : 2.5367958545684814
+step : 12.79 % , loss : 2.5538103580474854
+step : 25.58 % , loss : 2.6455211639404297
+step : 38.36 % , loss : 2.567262649536133
+step : 51.15 % , loss : 2.409633159637451
+step : 63.94 % , loss : 2.6781458854675293
+step : 76.73 % , loss : 2.8075218200683594
+step : 89.51 % , loss : 2.568295478820801
+Epoch: 230
+Epoch time : 0.05931063585811191hrs
+	Train Loss: 2.612 | Train PPL:  13.626
+	Val Loss: 3.023 |  Val PPL:  20.552
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.499534845352173
+step : 12.79 % , loss : 2.6054251194000244
+step : 25.58 % , loss : 2.4845094680786133
+step : 38.36 % , loss : 2.5455520153045654
+step : 51.15 % , loss : 2.585836410522461
+step : 63.94 % , loss : 2.510435104370117
+step : 76.73 % , loss : 2.592954635620117
+step : 89.51 % , loss : 2.6089119911193848
+Epoch: 231
+Epoch time : 0.05910409808158874hrs
+	Train Loss: 2.604 | Train PPL:  13.522
+	Val Loss: 3.016 |  Val PPL:  20.414
+	BLEU Score: 0.118
+step : 0.0 % , loss : 2.626732349395752
+step : 12.79 % , loss : 2.6791629791259766
+step : 25.58 % , loss : 2.6046042442321777
+step : 38.36 % , loss : 2.5951461791992188
+step : 51.15 % , loss : 2.6375646591186523
+step : 63.94 % , loss : 2.6175711154937744
+step : 76.73 % , loss : 2.603281259536743
+step : 89.51 % , loss : 2.583477020263672
+Epoch: 232
+Epoch time : 0.05922330293390486hrs
+	Train Loss: 2.603 | Train PPL:  13.501
+	Val Loss: 3.022 |  Val PPL:  20.532
+	BLEU Score: 0.115
+step : 0.0 % , loss : 2.639662027359009
+step : 12.79 % , loss : 2.4730584621429443
+step : 25.58 % , loss : 2.5601420402526855
+step : 38.36 % , loss : 2.5971598625183105
+step : 51.15 % , loss : 2.6180198192596436
+step : 63.94 % , loss : 2.5962908267974854
+step : 76.73 % , loss : 2.766414165496826
+step : 89.51 % , loss : 2.6957733631134033
+Epoch: 233
+Epoch time : 0.05927447994550069hrs
+	Train Loss: 2.602 | Train PPL:  13.488
+	Val Loss: 3.018 |  Val PPL:  20.442
+	BLEU Score: 0.116
+step : 0.0 % , loss : 2.5463078022003174
+step : 12.79 % , loss : 2.5207855701446533
+step : 25.58 % , loss : 2.6108992099761963
+step : 38.36 % , loss : 2.5829758644104004
+step : 51.15 % , loss : 2.664637327194214
+step : 63.94 % , loss : 2.653075695037842
+step : 76.73 % , loss : 2.5200374126434326
+step : 89.51 % , loss : 2.693544387817383
+Epoch: 234
+Epoch time : 0.059334211746851606hrs
+	Train Loss: 2.602 | Train PPL:  13.484
+	Val Loss: 3.017 |  Val PPL:  20.422
+	BLEU Score: 0.118
+step : 0.0 % , loss : 2.6872634887695312
+step : 12.79 % , loss : 2.654503583908081
+step : 25.58 % , loss : 2.595768690109253
+step : 38.36 % , loss : 2.5927135944366455
+step : 51.15 % , loss : 2.624089002609253
+step : 63.94 % , loss : 2.5555083751678467
+step : 76.73 % , loss : 2.6878788471221924
+step : 89.51 % , loss : 2.616013765335083
+Epoch: 235
+Epoch time : 0.0592193928692076hrs
+	Train Loss: 2.600 | Train PPL:  13.464
+	Val Loss: 3.022 |  Val PPL:  20.531
+	BLEU Score: 0.116
+step : 0.0 % , loss : 2.672825574874878
+step : 12.79 % , loss : 2.6257760524749756
+step : 25.58 % , loss : 2.559816598892212
+step : 38.36 % , loss : 2.575636625289917
+step : 51.15 % , loss : 2.5904505252838135
+step : 63.94 % , loss : 2.5578787326812744
+step : 76.73 % , loss : 2.6363022327423096
+step : 89.51 % , loss : 2.7071659564971924
+Epoch: 236
+Epoch time : 0.05927541044023302hrs
+	Train Loss: 2.601 | Train PPL:  13.473
+	Val Loss: 3.020 |  Val PPL:  20.491
+	BLEU Score: 0.116
+step : 0.0 % , loss : 2.472939968109131
+step : 12.79 % , loss : 2.522275686264038
+step : 25.58 % , loss : 2.6418771743774414
+step : 38.36 % , loss : 2.644690752029419
+step : 51.15 % , loss : 2.598731279373169
+step : 63.94 % , loss : 2.492952346801758
+step : 76.73 % , loss : 2.7472262382507324
+step : 89.51 % , loss : 2.5982186794281006
+Epoch: 237
+Epoch time : 0.05908423013157315hrs
+	Train Loss: 2.600 | Train PPL:  13.468
+	Val Loss: 3.018 |  Val PPL:  20.457
+	BLEU Score: 0.117
+step : 0.0 % , loss : 2.5966227054595947
+step : 12.79 % , loss : 2.6034765243530273
+step : 25.58 % , loss : 2.565324068069458
+step : 38.36 % , loss : 2.6266257762908936
+step : 51.15 % , loss : 2.5432724952697754
+step : 63.94 % , loss : 2.666269302368164
+step : 76.73 % , loss : 2.6602656841278076
+step : 89.51 % , loss : 2.5936052799224854
+Epoch: 238
+Epoch time : 0.059246679345766703hrs
+	Train Loss: 2.600 | Train PPL:  13.462
+	Val Loss: 3.018 |  Val PPL:  20.451
+	BLEU Score: 0.116
+step : 0.0 % , loss : 2.4866974353790283
+step : 12.79 % , loss : 2.5915133953094482
+step : 25.58 % , loss : 2.554882049560547
+step : 38.36 % , loss : 2.648798942565918
+step : 51.15 % , loss : 2.598358154296875
+step : 63.94 % , loss : 2.6134467124938965
+step : 76.73 % , loss : 2.5374367237091064
+step : 89.51 % , loss : 2.573307752609253
+Epoch: 239
+Epoch time : 0.05914674467510647hrs
+	Train Loss: 2.595 | Train PPL:  13.394
+	Val Loss: 3.022 |  Val PPL:  20.542
+	BLEU Score: 0.116
+step : 0.0 % , loss : 2.486438512802124
+step : 12.79 % , loss : 2.5655341148376465
+step : 25.58 % , loss : 2.583118200302124
+step : 38.36 % , loss : 2.618624687194824
+step : 51.15 % , loss : 2.5245578289031982
+step : 63.94 % , loss : 2.6261565685272217
+step : 76.73 % , loss : 2.6269567012786865
+step : 89.51 % , loss : 2.4758028984069824
+Epoch: 240
+Epoch time : 0.059162476989958024hrs
+	Train Loss: 2.595 | Train PPL:  13.390
+	Val Loss: 3.022 |  Val PPL:  20.537
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.4918060302734375
+step : 12.79 % , loss : 2.538059949874878
+step : 25.58 % , loss : 2.6312386989593506
+step : 38.36 % , loss : 2.655385971069336
+step : 51.15 % , loss : 2.651562452316284
+step : 63.94 % , loss : 2.702296733856201
+step : 76.73 % , loss : 2.6528377532958984
+step : 89.51 % , loss : 2.6334645748138428
+Epoch: 241
+Epoch time : 0.059324075910780164hrs
+	Train Loss: 2.594 | Train PPL:  13.387
+	Val Loss: 3.022 |  Val PPL:  20.527
+	BLEU Score: 0.118
+step : 0.0 % , loss : 2.5573456287384033
+step : 12.79 % , loss : 2.7209906578063965
+step : 25.58 % , loss : 2.5771968364715576
+step : 38.36 % , loss : 2.5578677654266357
+step : 51.15 % , loss : 2.574310541152954
+step : 63.94 % , loss : 2.5774059295654297
+step : 76.73 % , loss : 2.6571731567382812
+step : 89.51 % , loss : 2.5856173038482666
+Epoch: 242
+Epoch time : 0.0593443265888426hrs
+	Train Loss: 2.593 | Train PPL:  13.372
+	Val Loss: 3.026 |  Val PPL:  20.615
+	BLEU Score: 0.118
+step : 0.0 % , loss : 2.5832738876342773
+step : 12.79 % , loss : 2.603085994720459
+step : 25.58 % , loss : 2.6736483573913574
+step : 38.36 % , loss : 2.5714192390441895
+step : 51.15 % , loss : 2.561815023422241
+step : 63.94 % , loss : 2.6430962085723877
+step : 76.73 % , loss : 2.4880988597869873
+step : 89.51 % , loss : 2.6666858196258545
+Epoch: 243
+Epoch time : 0.0592498908440272hrs
+	Train Loss: 2.594 | Train PPL:  13.383
+	Val Loss: 3.023 |  Val PPL:  20.550
+	BLEU Score: 0.117
+step : 0.0 % , loss : 2.5208370685577393
+step : 12.79 % , loss : 2.5767111778259277
+step : 25.58 % , loss : 2.6031434535980225
+step : 38.36 % , loss : 2.676387071609497
+step : 51.15 % , loss : 2.6074376106262207
+step : 63.94 % , loss : 2.592104911804199
+step : 76.73 % , loss : 2.575735092163086
+step : 89.51 % , loss : 2.651710271835327
+Epoch: 244
+Epoch time : 0.05933659076690674hrs
+	Train Loss: 2.593 | Train PPL:  13.375
+	Val Loss: 3.025 |  Val PPL:  20.601
+	BLEU Score: 0.117
+step : 0.0 % , loss : 2.6438019275665283
+step : 12.79 % , loss : 2.697848081588745
+step : 25.58 % , loss : 2.4955172538757324
+step : 38.36 % , loss : 2.677363872528076
+step : 51.15 % , loss : 2.6686952114105225
+step : 63.94 % , loss : 2.5198819637298584
+step : 76.73 % , loss : 2.499236583709717
+step : 89.51 % , loss : 2.623612880706787
+Epoch: 245
+Epoch time : 0.05938193778196971hrs
+	Train Loss: 2.593 | Train PPL:  13.370
+	Val Loss: 3.016 |  Val PPL:  20.400
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.5129659175872803
+step : 12.79 % , loss : 2.6231260299682617
+step : 25.58 % , loss : 2.6514370441436768
+step : 38.36 % , loss : 2.577633857727051
+step : 51.15 % , loss : 2.686152935028076
+step : 63.94 % , loss : 2.562690496444702
+step : 76.73 % , loss : 2.568216323852539
+step : 89.51 % , loss : 2.6781623363494873
+Epoch: 246
+Epoch time : 0.05926868471834395hrs
+	Train Loss: 2.593 | Train PPL:  13.365
+	Val Loss: 3.026 |  Val PPL:  20.621
+	BLEU Score: 0.118
+step : 0.0 % , loss : 2.6176209449768066
+step : 12.79 % , loss : 2.591543436050415
+step : 25.58 % , loss : 2.5413124561309814
+step : 38.36 % , loss : 2.5816781520843506
+step : 51.15 % , loss : 2.565906047821045
+step : 63.94 % , loss : 2.5687167644500732
+step : 76.73 % , loss : 2.6809539794921875
+step : 89.51 % , loss : 2.611618757247925
+Epoch: 247
+Epoch time : 0.059320833616786535hrs
+	Train Loss: 2.588 | Train PPL:  13.310
+	Val Loss: 3.028 |  Val PPL:  20.646
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.669445514678955
+step : 12.79 % , loss : 2.5645320415496826
+step : 25.58 % , loss : 2.423030376434326
+step : 38.36 % , loss : 2.517683744430542
+step : 51.15 % , loss : 2.720292329788208
+step : 63.94 % , loss : 2.650644302368164
+step : 76.73 % , loss : 2.497910499572754
+step : 89.51 % , loss : 2.6562724113464355
+Epoch: 248
+Epoch time : 0.05925132599141863hrs
+	Train Loss: 2.589 | Train PPL:  13.321
+	Val Loss: 3.022 |  Val PPL:  20.542
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.596052885055542
+step : 12.79 % , loss : 2.60368013381958
+step : 25.58 % , loss : 2.578367233276367
+step : 38.36 % , loss : 2.7463624477386475
+step : 51.15 % , loss : 2.6131768226623535
+step : 63.94 % , loss : 2.6159117221832275
+step : 76.73 % , loss : 2.549638032913208
+step : 89.51 % , loss : 2.5321714878082275
+Epoch: 249
+Epoch time : 0.059261252284049985hrs
+	Train Loss: 2.589 | Train PPL:  13.316
+	Val Loss: 3.027 |  Val PPL:  20.633
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.5749073028564453
+step : 12.79 % , loss : 2.5391337871551514
+step : 25.58 % , loss : 2.5314443111419678
+step : 38.36 % , loss : 2.547318458557129
+step : 51.15 % , loss : 2.640397548675537
+step : 63.94 % , loss : 2.621777057647705
+step : 76.73 % , loss : 2.6348774433135986
+step : 89.51 % , loss : 2.6568615436553955
+Epoch: 250
+Epoch time : 0.05928357223669688hrs
+	Train Loss: 2.588 | Train PPL:  13.304
+	Val Loss: 3.023 |  Val PPL:  20.546
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.6484057903289795
+step : 12.79 % , loss : 2.4876859188079834
+step : 25.58 % , loss : 2.6335575580596924
+step : 38.36 % , loss : 2.578110456466675
+step : 51.15 % , loss : 2.5319316387176514
+step : 63.94 % , loss : 2.620972156524658
+step : 76.73 % , loss : 2.526777982711792
+step : 89.51 % , loss : 2.595741033554077
+Epoch: 251
+Epoch time : 0.05933516581853231hrs
+	Train Loss: 2.588 | Train PPL:  13.302
+	Val Loss: 3.025 |  Val PPL:  20.587
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.6299500465393066
+step : 12.79 % , loss : 2.6928131580352783
+step : 25.58 % , loss : 2.776900053024292
+step : 38.36 % , loss : 2.6350762844085693
+step : 51.15 % , loss : 2.547084331512451
+step : 63.94 % , loss : 2.536115884780884
+step : 76.73 % , loss : 2.541151762008667
+step : 89.51 % , loss : 2.6296839714050293
+Epoch: 252
+Epoch time : 0.05932112250063155hrs
+	Train Loss: 2.588 | Train PPL:  13.304
+	Val Loss: 3.026 |  Val PPL:  20.618
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.684152603149414
+step : 12.79 % , loss : 2.5479788780212402
+step : 25.58 % , loss : 2.6529464721679688
+step : 38.36 % , loss : 2.5856122970581055
+step : 51.15 % , loss : 2.6360204219818115
+step : 63.94 % , loss : 2.6562883853912354
+step : 76.73 % , loss : 2.666506767272949
+step : 89.51 % , loss : 2.664280652999878
+Epoch: 253
+Epoch time : 0.059235536323653325hrs
+	Train Loss: 2.588 | Train PPL:  13.305
+	Val Loss: 3.023 |  Val PPL:  20.553
+	BLEU Score: 0.118
+step : 0.0 % , loss : 2.517707347869873
+step : 12.79 % , loss : 2.5453197956085205
+step : 25.58 % , loss : 2.576497793197632
+step : 38.36 % , loss : 2.6566481590270996
+step : 51.15 % , loss : 2.5152792930603027
+step : 63.94 % , loss : 2.6085920333862305
+step : 76.73 % , loss : 2.724571943283081
+step : 89.51 % , loss : 2.5281472206115723
+Epoch: 254
+Epoch time : 0.059278714391920305hrs
+	Train Loss: 2.588 | Train PPL:  13.309
+	Val Loss: 3.028 |  Val PPL:  20.648
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.593578577041626
+step : 12.79 % , loss : 2.606659173965454
+step : 25.58 % , loss : 2.5888240337371826
+step : 38.36 % , loss : 2.562673568725586
+step : 51.15 % , loss : 2.8047187328338623
+step : 63.94 % , loss : 2.5957162380218506
+step : 76.73 % , loss : 2.663074016571045
+step : 89.51 % , loss : 2.580414056777954
+Epoch: 255
+Epoch time : 0.05922836376561059hrs
+	Train Loss: 2.586 | Train PPL:  13.276
+	Val Loss: 3.025 |  Val PPL:  20.599
+	BLEU Score: 0.121
+step : 0.0 % , loss : 2.59158992767334
+step : 12.79 % , loss : 2.5087223052978516
+step : 25.58 % , loss : 2.5504472255706787
+step : 38.36 % , loss : 2.567425489425659
+step : 51.15 % , loss : 2.6624372005462646
+step : 63.94 % , loss : 2.6372246742248535
+step : 76.73 % , loss : 2.6438963413238525
+step : 89.51 % , loss : 2.502715826034546
+Epoch: 256
+Epoch time : 0.05930971225102743hrs
+	Train Loss: 2.586 | Train PPL:  13.270
+	Val Loss: 3.026 |  Val PPL:  20.613
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.5327212810516357
+step : 12.79 % , loss : 2.602031946182251
+step : 25.58 % , loss : 2.5256736278533936
+step : 38.36 % , loss : 2.6723103523254395
+step : 51.15 % , loss : 2.4619717597961426
+step : 63.94 % , loss : 2.572791814804077
+step : 76.73 % , loss : 2.5574686527252197
+step : 89.51 % , loss : 2.462709426879883
+Epoch: 257
+Epoch time : 0.05902233256234063hrs
+	Train Loss: 2.585 | Train PPL:  13.269
+	Val Loss: 3.027 |  Val PPL:  20.645
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.504351854324341
+step : 12.79 % , loss : 2.4903910160064697
+step : 25.58 % , loss : 2.5759224891662598
+step : 38.36 % , loss : 2.47832989692688
+step : 51.15 % , loss : 2.6606268882751465
+step : 63.94 % , loss : 2.588942527770996
+step : 76.73 % , loss : 2.6336867809295654
+step : 89.51 % , loss : 2.6158435344696045
+Epoch: 258
+Epoch time : 0.05913916051387787hrs
+	Train Loss: 2.585 | Train PPL:  13.260
+	Val Loss: 3.028 |  Val PPL:  20.663
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.6048824787139893
+step : 12.79 % , loss : 2.574104070663452
+step : 25.58 % , loss : 2.561354637145996
+step : 38.36 % , loss : 2.565788507461548
+step : 51.15 % , loss : 2.554929494857788
+step : 63.94 % , loss : 2.622373580932617
+step : 76.73 % , loss : 2.5908336639404297
+step : 89.51 % , loss : 2.607285976409912
+Epoch: 259
+Epoch time : 0.05938127272658878hrs
+	Train Loss: 2.586 | Train PPL:  13.272
+	Val Loss: 3.028 |  Val PPL:  20.655
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.5397491455078125
+step : 12.79 % , loss : 2.691608190536499
+step : 25.58 % , loss : 2.6229782104492188
+step : 38.36 % , loss : 2.5068113803863525
+step : 51.15 % , loss : 2.688145399093628
+step : 63.94 % , loss : 2.652367115020752
+step : 76.73 % , loss : 2.5427982807159424
+step : 89.51 % , loss : 2.62971568107605
+Epoch: 260
+Epoch time : 0.05904767374197642hrs
+	Train Loss: 2.585 | Train PPL:  13.258
+	Val Loss: 3.029 |  Val PPL:  20.669
+	BLEU Score: 0.117
+step : 0.0 % , loss : 2.5915706157684326
+step : 12.79 % , loss : 2.63360333442688
+step : 25.58 % , loss : 2.683243751525879
+step : 38.36 % , loss : 2.5235607624053955
+step : 51.15 % , loss : 2.558640480041504
+step : 63.94 % , loss : 2.566279649734497
+step : 76.73 % , loss : 2.685352325439453
+step : 89.51 % , loss : 2.726300001144409
+Epoch: 261
+Epoch time : 0.05915454063150618hrs
+	Train Loss: 2.584 | Train PPL:  13.252
+	Val Loss: 3.025 |  Val PPL:  20.589
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.4867353439331055
+step : 12.79 % , loss : 2.4364559650421143
+step : 25.58 % , loss : 2.505298614501953
+step : 38.36 % , loss : 2.6902506351470947
+step : 51.15 % , loss : 2.6593663692474365
+step : 63.94 % , loss : 2.6379051208496094
+step : 76.73 % , loss : 2.5492241382598877
+step : 89.51 % , loss : 2.508434772491455
+Epoch: 262
+Epoch time : 0.05942229794131385hrs
+	Train Loss: 2.584 | Train PPL:  13.256
+	Val Loss: 3.028 |  Val PPL:  20.654
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.526827812194824
+step : 12.79 % , loss : 2.6443612575531006
+step : 25.58 % , loss : 2.6984140872955322
+step : 38.36 % , loss : 2.6118478775024414
+step : 51.15 % , loss : 2.606663227081299
+step : 63.94 % , loss : 2.6862075328826904
+step : 76.73 % , loss : 2.6050355434417725
+step : 89.51 % , loss : 2.54422664642334
+Epoch: 263
+Epoch time : 0.05924247953626845hrs
+	Train Loss: 2.584 | Train PPL:  13.255
+	Val Loss: 3.025 |  Val PPL:  20.589
+	BLEU Score: 0.118
+step : 0.0 % , loss : 2.4987659454345703
+step : 12.79 % , loss : 2.5845518112182617
+step : 25.58 % , loss : 2.677589178085327
+step : 38.36 % , loss : 2.574202060699463
+step : 51.15 % , loss : 2.66459059715271
+step : 63.94 % , loss : 2.707054615020752
+step : 76.73 % , loss : 2.520077705383301
+step : 89.51 % , loss : 2.4748964309692383
+Epoch: 264
+Epoch time : 0.05939510438177321hrs
+	Train Loss: 2.583 | Train PPL:  13.233
+	Val Loss: 3.026 |  Val PPL:  20.608
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.500559091567993
+step : 12.79 % , loss : 2.591974973678589
+step : 25.58 % , loss : 2.6746737957000732
+step : 38.36 % , loss : 2.527547836303711
+step : 51.15 % , loss : 2.5275442600250244
+step : 63.94 % , loss : 2.6023571491241455
+step : 76.73 % , loss : 2.6787188053131104
+step : 89.51 % , loss : 2.608286142349243
+Epoch: 265
+Epoch time : 0.059326119290457835hrs
+	Train Loss: 2.582 | Train PPL:  13.228
+	Val Loss: 3.027 |  Val PPL:  20.642
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.489900588989258
+step : 12.79 % , loss : 2.545079469680786
+step : 25.58 % , loss : 2.552480697631836
+step : 38.36 % , loss : 2.6498849391937256
+step : 51.15 % , loss : 2.632554531097412
+step : 63.94 % , loss : 2.6092753410339355
+step : 76.73 % , loss : 2.613837242126465
+step : 89.51 % , loss : 2.579906463623047
+Epoch: 266
+Epoch time : 0.05934494482146369hrs
+	Train Loss: 2.582 | Train PPL:  13.227
+	Val Loss: 3.027 |  Val PPL:  20.631
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.5094456672668457
+step : 12.79 % , loss : 2.5418431758880615
+step : 25.58 % , loss : 2.666685104370117
+step : 38.36 % , loss : 2.635453701019287
+step : 51.15 % , loss : 2.4790005683898926
+step : 63.94 % , loss : 2.584017038345337
+step : 76.73 % , loss : 2.5176727771759033
+step : 89.51 % , loss : 2.506213903427124
+Epoch: 267
+Epoch time : 0.05937224765618642hrs
+	Train Loss: 2.583 | Train PPL:  13.231
+	Val Loss: 3.030 |  Val PPL:  20.691
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.5737223625183105
+step : 12.79 % , loss : 2.5578293800354004
+step : 25.58 % , loss : 2.6840286254882812
+step : 38.36 % , loss : 2.577361822128296
+step : 51.15 % , loss : 2.5548574924468994
+step : 63.94 % , loss : 2.559950113296509
+step : 76.73 % , loss : 2.549250841140747
+step : 89.51 % , loss : 2.584967851638794
+Epoch: 268
+Epoch time : 0.05932861725489298hrs
+	Train Loss: 2.583 | Train PPL:  13.237
+	Val Loss: 3.025 |  Val PPL:  20.601
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.6062309741973877
+step : 12.79 % , loss : 2.5393035411834717
+step : 25.58 % , loss : 2.5305845737457275
+step : 38.36 % , loss : 2.68255615234375
+step : 51.15 % , loss : 2.5944321155548096
+step : 63.94 % , loss : 2.6484665870666504
+step : 76.73 % , loss : 2.5645782947540283
+step : 89.51 % , loss : 2.5348334312438965
+Epoch: 269
+Epoch time : 0.05936813374360402hrs
+	Train Loss: 2.583 | Train PPL:  13.231
+	Val Loss: 3.027 |  Val PPL:  20.638
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.5726847648620605
+step : 12.79 % , loss : 2.5748066902160645
+step : 25.58 % , loss : 2.3894426822662354
+step : 38.36 % , loss : 2.552744150161743
+step : 51.15 % , loss : 2.588961601257324
+step : 63.94 % , loss : 2.5025861263275146
+step : 76.73 % , loss : 2.631291627883911
+step : 89.51 % , loss : 2.691699266433716
+Epoch: 270
+Epoch time : 0.059449941118558246hrs
+	Train Loss: 2.583 | Train PPL:  13.230
+	Val Loss: 3.028 |  Val PPL:  20.663
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.5139262676239014
+step : 12.79 % , loss : 2.5544590950012207
+step : 25.58 % , loss : 2.6201865673065186
+step : 38.36 % , loss : 2.525658369064331
+step : 51.15 % , loss : 2.558363914489746
+step : 63.94 % , loss : 2.612191915512085
+step : 76.73 % , loss : 2.598121404647827
+step : 89.51 % , loss : 2.6262118816375732
+Epoch: 271
+Epoch time : 0.0594070831934611hrs
+	Train Loss: 2.582 | Train PPL:  13.226
+	Val Loss: 3.027 |  Val PPL:  20.642
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.5229976177215576
+step : 12.79 % , loss : 2.581073045730591
+step : 25.58 % , loss : 2.5812132358551025
+step : 38.36 % , loss : 2.5717244148254395
+step : 51.15 % , loss : 2.579131841659546
+step : 63.94 % , loss : 2.563283920288086
+step : 76.73 % , loss : 2.6917479038238525
+step : 89.51 % , loss : 2.590085744857788
+Epoch: 272
+Epoch time : 0.059192645814683705hrs
+	Train Loss: 2.581 | Train PPL:  13.208
+	Val Loss: 3.026 |  Val PPL:  20.621
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.6327760219573975
+step : 12.79 % , loss : 2.5967636108398438
+step : 25.58 % , loss : 2.5647168159484863
+step : 38.36 % , loss : 2.6449594497680664
+step : 51.15 % , loss : 2.650692939758301
+step : 63.94 % , loss : 2.5463805198669434
+step : 76.73 % , loss : 2.5806968212127686
+step : 89.51 % , loss : 2.460392713546753
+Epoch: 273
+Epoch time : 0.059432611266771955hrs
+	Train Loss: 2.582 | Train PPL:  13.229
+	Val Loss: 3.027 |  Val PPL:  20.640
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.673429250717163
+step : 12.79 % , loss : 2.4488143920898438
+step : 25.58 % , loss : 2.559840202331543
+step : 38.36 % , loss : 2.5434038639068604
+step : 51.15 % , loss : 2.4816975593566895
+step : 63.94 % , loss : 2.5587198734283447
+step : 76.73 % , loss : 2.5709893703460693
+step : 89.51 % , loss : 2.6515274047851562
+Epoch: 274
+Epoch time : 0.05913700964715746hrs
+	Train Loss: 2.582 | Train PPL:  13.229
+	Val Loss: 3.028 |  Val PPL:  20.653
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.72471022605896
+step : 12.79 % , loss : 2.6116368770599365
+step : 25.58 % , loss : 2.523238182067871
+step : 38.36 % , loss : 2.649752616882324
+step : 51.15 % , loss : 2.6553235054016113
+step : 63.94 % , loss : 2.520009994506836
+step : 76.73 % , loss : 2.514070749282837
+step : 89.51 % , loss : 2.6905581951141357
+Epoch: 275
+Epoch time : 0.059252756304211084hrs
+	Train Loss: 2.582 | Train PPL:  13.225
+	Val Loss: 3.025 |  Val PPL:  20.593
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.7073724269866943
+step : 12.79 % , loss : 2.522989511489868
+step : 25.58 % , loss : 2.593764066696167
+step : 38.36 % , loss : 2.6598055362701416
+step : 51.15 % , loss : 2.5620598793029785
+step : 63.94 % , loss : 2.6913907527923584
+step : 76.73 % , loss : 2.5119593143463135
+step : 89.51 % , loss : 2.556307792663574
+Epoch: 276
+Epoch time : 0.05929261280430688hrs
+	Train Loss: 2.582 | Train PPL:  13.220
+	Val Loss: 3.027 |  Val PPL:  20.640
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.5598671436309814
+step : 12.79 % , loss : 2.4708361625671387
+step : 25.58 % , loss : 2.589127540588379
+step : 38.36 % , loss : 2.583157777786255
+step : 51.15 % , loss : 2.5717761516571045
+step : 63.94 % , loss : 2.615351676940918
+step : 76.73 % , loss : 2.662104845046997
+step : 89.51 % , loss : 2.625709295272827
+Epoch: 277
+Epoch time : 0.05928286764356825hrs
+	Train Loss: 2.582 | Train PPL:  13.217
+	Val Loss: 3.028 |  Val PPL:  20.650
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.589600086212158
+step : 12.79 % , loss : 2.55814790725708
+step : 25.58 % , loss : 2.678471803665161
+step : 38.36 % , loss : 2.531359910964966
+step : 51.15 % , loss : 2.5849993228912354
+step : 63.94 % , loss : 2.526951551437378
+step : 76.73 % , loss : 2.6429519653320312
+step : 89.51 % , loss : 2.5785768032073975
+Epoch: 278
+Epoch time : 0.05943907201290131hrs
+	Train Loss: 2.582 | Train PPL:  13.226
+	Val Loss: 3.027 |  Val PPL:  20.631
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.5874273777008057
+step : 12.79 % , loss : 2.441117525100708
+step : 25.58 % , loss : 2.617154598236084
+step : 38.36 % , loss : 2.5623281002044678
+step : 51.15 % , loss : 2.6058120727539062
+step : 63.94 % , loss : 2.6004550457000732
+step : 76.73 % , loss : 2.5731723308563232
+step : 89.51 % , loss : 2.476431131362915
+Epoch: 279
+Epoch time : 0.05933097408877479hrs
+	Train Loss: 2.580 | Train PPL:  13.203
+	Val Loss: 3.028 |  Val PPL:  20.650
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.492995023727417
+step : 12.79 % , loss : 2.653088331222534
+step : 25.58 % , loss : 2.5509469509124756
+step : 38.36 % , loss : 2.584711790084839
+step : 51.15 % , loss : 2.6232688426971436
+step : 63.94 % , loss : 2.5982611179351807
+step : 76.73 % , loss : 2.615963935852051
+step : 89.51 % , loss : 2.616302013397217
+Epoch: 280
+Epoch time : 0.05928032981024848hrs
+	Train Loss: 2.581 | Train PPL:  13.209
+	Val Loss: 3.027 |  Val PPL:  20.637
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.4949142932891846
+step : 12.79 % , loss : 2.618273973464966
+step : 25.58 % , loss : 2.5175490379333496
+step : 38.36 % , loss : 2.5996158123016357
+step : 51.15 % , loss : 2.6546969413757324
+step : 63.94 % , loss : 2.593600034713745
+step : 76.73 % , loss : 2.6298344135284424
+step : 89.51 % , loss : 2.643980026245117
+Epoch: 281
+Epoch time : 0.05937519801987542hrs
+	Train Loss: 2.581 | Train PPL:  13.205
+	Val Loss: 3.026 |  Val PPL:  20.624
+	BLEU Score: 0.121
+step : 0.0 % , loss : 2.533780336380005
+step : 12.79 % , loss : 2.6997292041778564
+step : 25.58 % , loss : 2.573960304260254
+step : 38.36 % , loss : 2.6358590126037598
+step : 51.15 % , loss : 2.519594430923462
+step : 63.94 % , loss : 2.6899709701538086
+step : 76.73 % , loss : 2.7346479892730713
+step : 89.51 % , loss : 2.6265642642974854
+Epoch: 282
+Epoch time : 0.05936359173721737hrs
+	Train Loss: 2.582 | Train PPL:  13.219
+	Val Loss: 3.026 |  Val PPL:  20.617
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.5454156398773193
+step : 12.79 % , loss : 2.6602396965026855
+step : 25.58 % , loss : 2.4773387908935547
+step : 38.36 % , loss : 2.4904046058654785
+step : 51.15 % , loss : 2.523481607437134
+step : 63.94 % , loss : 2.575871706008911
+step : 76.73 % , loss : 2.4964237213134766
+step : 89.51 % , loss : 2.4962170124053955
+Epoch: 283
+Epoch time : 0.05943310028976864hrs
+	Train Loss: 2.580 | Train PPL:  13.203
+	Val Loss: 3.027 |  Val PPL:  20.635
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.598018169403076
+step : 12.79 % , loss : 2.594508171081543
+step : 25.58 % , loss : 2.5747523307800293
+step : 38.36 % , loss : 2.4762134552001953
+step : 51.15 % , loss : 2.615358591079712
+step : 63.94 % , loss : 2.496957778930664
+step : 76.73 % , loss : 2.4049417972564697
+step : 89.51 % , loss : 2.4535913467407227
+Epoch: 284
+Epoch time : 0.059407608045472036hrs
+	Train Loss: 2.581 | Train PPL:  13.212
+	Val Loss: 3.027 |  Val PPL:  20.627
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.572413206100464
+step : 12.79 % , loss : 2.561480760574341
+step : 25.58 % , loss : 2.629514694213867
+step : 38.36 % , loss : 2.667956590652466
+step : 51.15 % , loss : 2.5626864433288574
+step : 63.94 % , loss : 2.534930467605591
+step : 76.73 % , loss : 2.6100521087646484
+step : 89.51 % , loss : 2.4834136962890625
+Epoch: 285
+Epoch time : 0.059244147075547114hrs
+	Train Loss: 2.581 | Train PPL:  13.213
+	Val Loss: 3.027 |  Val PPL:  20.634
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.670649528503418
+step : 12.79 % , loss : 2.5722122192382812
+step : 25.58 % , loss : 2.611191749572754
+step : 38.36 % , loss : 2.527423143386841
+step : 51.15 % , loss : 2.5630486011505127
+step : 63.94 % , loss : 2.578167676925659
+step : 76.73 % , loss : 2.6166718006134033
+step : 89.51 % , loss : 2.6477890014648438
+Epoch: 286
+Epoch time : 0.05922069377369351hrs
+	Train Loss: 2.581 | Train PPL:  13.206
+	Val Loss: 3.027 |  Val PPL:  20.646
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.607255220413208
+step : 12.79 % , loss : 2.6506147384643555
+step : 25.58 % , loss : 2.5635745525360107
+step : 38.36 % , loss : 2.6176462173461914
+step : 51.15 % , loss : 2.590665340423584
+step : 63.94 % , loss : 2.5941195487976074
+step : 76.73 % , loss : 2.6691863536834717
+step : 89.51 % , loss : 2.560861110687256
+Epoch: 287
+Epoch time : 0.059269434478547836hrs
+	Train Loss: 2.581 | Train PPL:  13.204
+	Val Loss: 3.027 |  Val PPL:  20.632
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.6167008876800537
+step : 12.79 % , loss : 2.670966148376465
+step : 25.58 % , loss : 2.6025171279907227
+step : 38.36 % , loss : 2.665325164794922
+step : 51.15 % , loss : 2.538276195526123
+step : 63.94 % , loss : 2.39237117767334
+step : 76.73 % , loss : 2.5586256980895996
+step : 89.51 % , loss : 2.582735776901245
+Epoch: 288
+Epoch time : 0.059422749082247414hrs
+	Train Loss: 2.580 | Train PPL:  13.192
+	Val Loss: 3.027 |  Val PPL:  20.627
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.554311513900757
+step : 12.79 % , loss : 2.605050802230835
+step : 25.58 % , loss : 2.63285231590271
+step : 38.36 % , loss : 2.544222354888916
+step : 51.15 % , loss : 2.627393960952759
+step : 63.94 % , loss : 2.780536651611328
+step : 76.73 % , loss : 2.7446508407592773
+step : 89.51 % , loss : 2.553901433944702
+Epoch: 289
+Epoch time : 0.05926480266782973hrs
+	Train Loss: 2.580 | Train PPL:  13.200
+	Val Loss: 3.028 |  Val PPL:  20.646
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.5982506275177
+step : 12.79 % , loss : 2.5181691646575928
+step : 25.58 % , loss : 2.5344955921173096
+step : 38.36 % , loss : 2.6794981956481934
+step : 51.15 % , loss : 2.660862445831299
+step : 63.94 % , loss : 2.6877670288085938
+step : 76.73 % , loss : 2.5104517936706543
+step : 89.51 % , loss : 2.5543136596679688
+Epoch: 290
+Epoch time : 0.059408172369003295hrs
+	Train Loss: 2.581 | Train PPL:  13.210
+	Val Loss: 3.027 |  Val PPL:  20.632
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.561171770095825
+step : 12.79 % , loss : 2.5797367095947266
+step : 25.58 % , loss : 2.5076334476470947
+step : 38.36 % , loss : 2.513676404953003
+step : 51.15 % , loss : 2.632643222808838
+step : 63.94 % , loss : 2.5006234645843506
+step : 76.73 % , loss : 2.566788673400879
+step : 89.51 % , loss : 2.671480894088745
+Epoch: 291
+Epoch time : 0.05940795057349735hrs
+	Train Loss: 2.579 | Train PPL:  13.187
+	Val Loss: 3.027 |  Val PPL:  20.633
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.546830415725708
+step : 12.79 % , loss : 2.5782434940338135
+step : 25.58 % , loss : 2.5339479446411133
+step : 38.36 % , loss : 2.5919485092163086
+step : 51.15 % , loss : 2.509613513946533
+step : 63.94 % , loss : 2.6067349910736084
+step : 76.73 % , loss : 2.559669256210327
+step : 89.51 % , loss : 2.572267532348633
+Epoch: 292
+Epoch time : 0.0593260876999961hrs
+	Train Loss: 2.581 | Train PPL:  13.208
+	Val Loss: 3.027 |  Val PPL:  20.641
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.5533499717712402
+step : 12.79 % , loss : 2.565786361694336
+step : 25.58 % , loss : 2.602691650390625
+step : 38.36 % , loss : 2.5453379154205322
+step : 51.15 % , loss : 2.645737886428833
+step : 63.94 % , loss : 2.5827276706695557
+step : 76.73 % , loss : 2.556081771850586
+step : 89.51 % , loss : 2.556926965713501
+Epoch: 293
+Epoch time : 0.05950826691256629hrs
+	Train Loss: 2.581 | Train PPL:  13.205
+	Val Loss: 3.028 |  Val PPL:  20.658
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.4595255851745605
+step : 12.79 % , loss : 2.5327603816986084
+step : 25.58 % , loss : 2.47637677192688
+step : 38.36 % , loss : 2.6697707176208496
+step : 51.15 % , loss : 2.6067698001861572
+step : 63.94 % , loss : 2.4814987182617188
+step : 76.73 % , loss : 2.4710283279418945
+step : 89.51 % , loss : 2.6635797023773193
+Epoch: 294
+Epoch time : 0.059356900784704424hrs
+	Train Loss: 2.581 | Train PPL:  13.207
+	Val Loss: 3.028 |  Val PPL:  20.652
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.5429859161376953
+step : 12.79 % , loss : 2.569338083267212
+step : 25.58 % , loss : 2.4991633892059326
+step : 38.36 % , loss : 2.6090810298919678
+step : 51.15 % , loss : 2.5376291275024414
+step : 63.94 % , loss : 2.647181987762451
+step : 76.73 % , loss : 2.6837103366851807
+step : 89.51 % , loss : 2.457909107208252
+Epoch: 295
+Epoch time : 0.05928632484541999hrs
+	Train Loss: 2.580 | Train PPL:  13.199
+	Val Loss: 3.027 |  Val PPL:  20.644
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.6133625507354736
+step : 12.79 % , loss : 2.5867574214935303
+step : 25.58 % , loss : 2.5321381092071533
+step : 38.36 % , loss : 2.5877816677093506
+step : 51.15 % , loss : 2.588610887527466
+step : 63.94 % , loss : 2.618724822998047
+step : 76.73 % , loss : 2.629667282104492
+step : 89.51 % , loss : 2.5838916301727295
+Epoch: 296
+Epoch time : 0.0591483775112364hrs
+	Train Loss: 2.580 | Train PPL:  13.203
+	Val Loss: 3.027 |  Val PPL:  20.641
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.610433578491211
+step : 12.79 % , loss : 2.5647714138031006
+step : 25.58 % , loss : 2.564946174621582
+step : 38.36 % , loss : 2.481492042541504
+step : 51.15 % , loss : 2.5598080158233643
+step : 63.94 % , loss : 2.7006771564483643
+step : 76.73 % , loss : 2.6492984294891357
+step : 89.51 % , loss : 2.5963685512542725
+Epoch: 297
+Epoch time : 0.05926126956939697hrs
+	Train Loss: 2.580 | Train PPL:  13.197
+	Val Loss: 3.028 |  Val PPL:  20.646
+	BLEU Score: 0.119
+step : 0.0 % , loss : 2.5301520824432373
+step : 12.79 % , loss : 2.4791135787963867
+step : 25.58 % , loss : 2.6389498710632324
+step : 38.36 % , loss : 2.483797073364258
+step : 51.15 % , loss : 2.6496710777282715
+step : 63.94 % , loss : 2.5717921257019043
+step : 76.73 % , loss : 2.5724477767944336
+step : 89.51 % , loss : 2.613893508911133
+Epoch: 298
+Epoch time : 0.058973586095703974hrs
+	Train Loss: 2.579 | Train PPL:  13.184
+	Val Loss: 3.027 |  Val PPL:  20.644
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.5380406379699707
+step : 12.79 % , loss : 2.5912725925445557
+step : 25.58 % , loss : 2.5424070358276367
+step : 38.36 % , loss : 2.597756862640381
+step : 51.15 % , loss : 2.5394108295440674
+step : 63.94 % , loss : 2.5198745727539062
+step : 76.73 % , loss : 2.6733310222625732
+step : 89.51 % , loss : 2.592877149581909
+Epoch: 299
+Epoch time : 0.0589884340763092hrs
+	Train Loss: 2.581 | Train PPL:  13.206
+	Val Loss: 3.028 |  Val PPL:  20.647
+	BLEU Score: 0.120
+step : 0.0 % , loss : 2.725564956665039
+step : 12.79 % , loss : 2.5864269733428955
+step : 25.58 % , loss : 2.574005365371704
+step : 38.36 % , loss : 2.502718925476074
+step : 51.15 % , loss : 2.648836851119995
+step : 63.94 % , loss : 2.6108193397521973
+step : 76.73 % , loss : 2.5265769958496094
+step : 89.51 % , loss : 2.6760690212249756
+Epoch: 300
+Epoch time : 0.058682332038879396hrs
+	Train Loss: 2.580 | Train PPL:  13.201
+	Val Loss: 3.028 |  Val PPL:  20.658
+	BLEU Score: 0.120
+Training time : 17.854212670260004hrs
